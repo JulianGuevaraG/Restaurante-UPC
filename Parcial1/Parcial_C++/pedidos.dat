@@ -1,824 +1,285 @@
-270|4|Ana Martinez|local|2026-03-21 18:49|432000|entregado|2|2||Quiero que este frio|1;Bandeja Paisa;12;32000.000000;384000.000000;Que venga con buen frijol~12;Jugo Natural;6;8000.000000;48000.000000;Que sea bueno
-302|3|Juan Perez|domicilio|2026-03-07 22:29|74000|entregado|0|0|Calle 62 #47-26||
-303|8|Sofia Torres|local|2026-03-07 14:4|66000|entregado|7|7|||
-304|15|Felipe Restrepo|domicilio|2026-03-07 18:15|59000|cancelado|0|0|Calle 81 #46-46||
-305|19|Rodrigo Mendoza|domicilio|2026-03-07 12:15|243000|entregado|0|0|Calle 97 #32-71||
-306|6|Laura Sanchez|local|2026-03-07 20:13|198000|abierto|4|4|||
-307|18|Paola Quintero|local|2026-03-07 20:57|152000|entregado|5|5|||
-308|16|Natalia Cardenas|domicilio|2026-03-07 22:27|190000|entregado|0|0|Calle 30 #16-28||
-309|3|Juan Perez|local|2026-03-07 10:16|287000|entregado|8|8|||
-310|1|Carlos Lopez|local|2026-03-07 15:5|159000|entregado|3|3|||
-311|15|Felipe Restrepo|local|2026-03-07 14:58|48000|entregado|6|6|||
-312|7|Diego Ramirez|domicilio|2026-03-07 22:46|39000|entregado|0|0|Calle 25 #39-91||
-313|17|Julian Ospina|domicilio|2026-03-07 11:46|61000|cancelado|0|0|Calle 48 #44-87||
-314|13|Sebastian Rojas|local|2026-03-07 18:29|27000|entregado|2|2|||
-315|11|Camilo Vargas|local|2026-03-07 20:3|65000|entregado|5|5|||
-316|17|Julian Ospina|local|2026-03-07 11:6|21000|entregado|4|4|||
-317|10|Valentina Castro|domicilio|2026-03-07 19:27|64000|cancelado|0|0|Calle 63 #50-46||
-318|8|Sofia Torres|local|2026-03-07 15:0|72000|entregado|2|2|||
-319|10|Valentina Castro|domicilio|2026-03-07 10:13|106000|cancelado|0|0|Calle 63 #50-46||
-320|16|Natalia Cardenas|domicilio|2026-03-08 17:32|83000|abierto|0|0|Calle 30 #16-28||
-321|13|Sebastian Rojas|domicilio|2026-03-08 18:8|206000|entregado|0|0|Calle 28 #41-99||
-322|18|Paola Quintero|local|2026-03-08 16:34|90000|entregado|5|5|||
-323|10|Valentina Castro|local|2026-03-08 21:21|72000|cancelado|11|1|||
-324|4|Ana Martinez|local|2026-03-08 11:53|135000|entregado|3|3|||
-325|16|Natalia Cardenas|domicilio|2026-03-08 15:1|94000|entregado|0|0|Calle 30 #16-28||
-326|20|Luisa Fernandez|local|2026-03-08 20:17|86000|entregado|7|7|||
-327|13|Sebastian Rojas|domicilio|2026-03-08 16:23|141000|entregado|0|0|Calle 28 #41-99||
-328|12|Isabella Moreno|local|2026-03-08 22:15|209000|entregado|7|7|||
-329|17|Julian Ospina|domicilio|2026-03-08 10:48|16000|entregado|0|0|Calle 48 #44-87||
-330|11|Camilo Vargas|local|2026-03-08 19:54|146000|entregado|9|9|||
-331|8|Sofia Torres|local|2026-03-08 12:42|128000|entregado|10|10|||
-332|4|Ana Martinez|local|2026-03-08 19:19|159000|entregado|2|2|||
-333|17|Julian Ospina|domicilio|2026-03-08 12:26|117000|entregado|0|0|Calle 48 #44-87||
-334|11|Camilo Vargas|local|2026-03-08 19:32|87000|entregado|9|9|||
-335|8|Sofia Torres|local|2026-03-08 18:4|108000|entregado|2|2|||
-336|13|Sebastian Rojas|domicilio|2026-03-08 18:7|95000|entregado|0|0|Calle 28 #41-99||
-337|7|Diego Ramirez|domicilio|2026-03-08 10:40|92000|entregado|0|0|Calle 25 #39-91||
-338|10|Valentina Castro|domicilio|2026-03-08 12:56|137000|cancelado|0|0|Calle 63 #50-46||
-339|7|Diego Ramirez|local|2026-03-08 17:0|86000|entregado|4|4|||
-340|16|Natalia Cardenas|domicilio|2026-03-08 16:50|25000|entregado|0|0|Calle 30 #16-28||
-341|1|Carlos Lopez|domicilio|2026-03-09 14:17|84000|entregado|0|0|Calle 41 #26-35||
-342|15|Felipe Restrepo|local|2026-03-09 15:44|131000|entregado|3|3|||
-343|17|Julian Ospina|local|2026-03-09 12:10|56000|entregado|9|9|||
-344|14|Daniela Mendoza|local|2026-03-09 11:19|15000|abierto|10|10|||
-345|18|Paola Quintero|local|2026-03-09 14:40|47000|entregado|10|10|||
-346|9|Andres Herrera|domicilio|2026-03-09 17:3|39000|entregado|0|0|Calle 46 #7-67||
-347|10|Valentina Castro|domicilio|2026-03-09 17:44|187000|entregado|0|0|Calle 63 #50-46||
-348|2|Maria Garcia|domicilio|2026-03-09 12:11|88000|entregado|0|0|Calle 67 #37-62||
-349|17|Julian Ospina|domicilio|2026-03-09 21:53|95000|abierto|0|0|Calle 48 #44-87||
-350|2|Maria Garcia|local|2026-03-09 21:47|30000|cancelado|10|10|||
-351|12|Isabella Moreno|local|2026-03-09 21:45|110000|entregado|3|3|||
-352|6|Laura Sanchez|local|2026-03-09 12:32|93000|abierto|1|1|||
-353|20|Luisa Fernandez|local|2026-03-09 17:48|147000|cancelado|6|6|||
-354|11|Camilo Vargas|local|2026-03-09 15:13|55000|entregado|7|7|||
-355|10|Valentina Castro|local|2026-03-09 10:34|168000|cancelado|9|9|||
-356|1|Carlos Lopez|domicilio|2026-03-09 21:5|30000|entregado|0|0|Calle 41 #26-35||
-357|13|Sebastian Rojas|local|2026-03-09 18:45|133000|entregado|7|7|||
-358|13|Sebastian Rojas|domicilio|2026-03-10 16:7|178000|entregado|0|0|Calle 28 #41-99||
-359|16|Natalia Cardenas|domicilio|2026-03-10 16:29|56000|cancelado|0|0|Calle 30 #16-28||
-360|9|Andres Herrera|local|2026-03-10 20:11|53000|entregado|5|5|||
-361|15|Felipe Restrepo|local|2026-03-10 12:36|118000|entregado|3|3|||
-362|17|Julian Ospina|local|2026-03-10 19:32|8000|entregado|9|9|||
-363|13|Sebastian Rojas|domicilio|2026-03-10 22:58|57000|entregado|0|0|Calle 28 #41-99||
-364|17|Julian Ospina|domicilio|2026-03-10 15:20|56000|entregado|0|0|Calle 48 #44-87||
-365|6|Laura Sanchez|domicilio|2026-03-10 18:3|75000|entregado|0|0|Calle 18 #6-27||
-366|18|Paola Quintero|local|2026-03-10 11:21|26000|entregado|2|2|||
-367|13|Sebastian Rojas|local|2026-03-10 16:38|30000|entregado|9|9|||
-368|6|Laura Sanchez|local|2026-03-10 10:42|96000|entregado|7|7|||
-369|8|Sofia Torres|domicilio|2026-03-10 20:26|36000|entregado|0|0|Calle 66 #21-38||
-370|19|Rodrigo Mendoza|domicilio|2026-03-10 22:21|120000|entregado|0|0|Calle 97 #32-71||
-371|17|Julian Ospina|local|2026-03-10 21:51|144000|entregado|11|1|||
-372|7|Diego Ramirez|domicilio|2026-03-11 21:36|8000|cancelado|0|0|Calle 25 #39-91||
-373|13|Sebastian Rojas|local|2026-03-11 19:49|28000|entregado|5|5|||
-374|1|Carlos Lopez|local|2026-03-11 21:34|21000|cancelado|9|9|||
-375|15|Felipe Restrepo|local|2026-03-11 17:8|28000|entregado|11|1|||
-376|18|Paola Quintero|local|2026-03-11 19:25|213000|entregado|9|9|||
-377|20|Luisa Fernandez|local|2026-03-11 13:20|172000|cancelado|10|10|||
-378|11|Camilo Vargas|local|2026-03-11 21:51|75000|entregado|9|9|||
-379|16|Natalia Cardenas|local|2026-03-11 17:11|56000|entregado|11|1|||
-380|9|Andres Herrera|local|2026-03-11 19:37|106000|entregado|2|2|||
-381|14|Daniela Mendoza|domicilio|2026-03-11 13:23|73000|entregado|0|0|Calle 87 #26-95||
-382|5|Pedro Rodriguez|local|2026-03-11 22:48|84000|entregado|5|5|||
-383|20|Luisa Fernandez|local|2026-03-12 16:35|78000|entregado|1|1|||
-384|11|Camilo Vargas|local|2026-03-12 18:50|54000|entregado|2|2|||
-385|11|Camilo Vargas|domicilio|2026-03-12 13:35|27000|entregado|0|0|Calle 11 #11-46||
-386|8|Sofia Torres|local|2026-03-12 11:18|96000|entregado|8|8|||
-387|12|Isabella Moreno|domicilio|2026-03-12 13:35|96000|entregado|0|0|Calle 33 #14-36||
-388|8|Sofia Torres|domicilio|2026-03-12 21:26|152000|entregado|0|0|Calle 66 #21-38||
-389|4|Ana Martinez|local|2026-03-12 13:28|125000|abierto|2|2|||
-390|9|Andres Herrera|local|2026-03-12 21:27|76000|entregado|1|1|||
-391|9|Andres Herrera|local|2026-03-12 13:56|145000|entregado|6|6|||
-392|4|Ana Martinez|local|2026-03-12 12:1|168000|entregado|10|10|||
-393|10|Valentina Castro|local|2026-03-12 10:41|84000|abierto|11|1|||
-394|8|Sofia Torres|local|2026-03-12 12:6|67000|entregado|9|9|||
-395|14|Daniela Mendoza|local|2026-03-12 14:16|49000|entregado|4|4|||
-396|15|Felipe Restrepo|local|2026-03-12 13:42|111000|entregado|9|9|||
-397|18|Paola Quintero|local|2026-03-12 15:21|45000|cancelado|5|5|||
-398|12|Isabella Moreno|domicilio|2026-03-12 22:20|95000|entregado|0|0|Calle 33 #14-36||
-399|19|Rodrigo Mendoza|domicilio|2026-03-12 16:6|144000|entregado|0|0|Calle 97 #32-71||
-400|1|Carlos Lopez|domicilio|2026-03-12 22:49|87000|entregado|0|0|Calle 41 #26-35||
-401|4|Ana Martinez|local|2026-03-12 20:47|56000|abierto|10|10|||
-402|3|Juan Perez|local|2026-03-12 12:27|84000|entregado|4|4|||
-403|5|Pedro Rodriguez|domicilio|2026-03-13 17:9|85000|entregado|0|0|Calle 69 #34-18||
-404|20|Luisa Fernandez|local|2026-03-13 12:35|80000|entregado|3|3|||
-405|14|Daniela Mendoza|domicilio|2026-03-13 18:57|87000|entregado|0|0|Calle 87 #26-95||
-406|9|Andres Herrera|domicilio|2026-03-13 16:11|12000|entregado|0|0|Calle 46 #7-67||
-407|16|Natalia Cardenas|local|2026-03-13 21:52|78000|entregado|5|5|||
-408|20|Luisa Fernandez|local|2026-03-13 12:51|49000|entregado|8|8|||
-409|4|Ana Martinez|local|2026-03-13 16:42|53000|entregado|4|4|||
-410|11|Camilo Vargas|local|2026-03-13 17:39|96000|entregado|3|3|||
-411|19|Rodrigo Mendoza|local|2026-03-13 14:51|19000|entregado|9|9|||
-412|2|Maria Garcia|domicilio|2026-03-13 15:53|59000|entregado|0|0|Calle 67 #37-62||
-413|17|Julian Ospina|local|2026-03-13 20:12|88000|entregado|7|7|||
-414|9|Andres Herrera|local|2026-03-13 19:3|27000|entregado|10|10|||
-415|7|Diego Ramirez|domicilio|2026-03-13 16:16|105000|entregado|0|0|Calle 25 #39-91||
-416|7|Diego Ramirez|local|2026-03-13 11:54|144000|entregado|11|1|||
-417|6|Laura Sanchez|domicilio|2026-03-13 16:27|9000|entregado|0|0|Calle 18 #6-27||
-418|1|Carlos Lopez|local|2026-03-14 14:0|30000|entregado|7|7|||
-419|12|Isabella Moreno|domicilio|2026-03-14 18:1|32000|entregado|0|0|Calle 33 #14-36||
-420|12|Isabella Moreno|domicilio|2026-03-14 20:17|54000|abierto|0|0|Calle 33 #14-36||
-421|17|Julian Ospina|local|2026-03-14 22:29|54000|cancelado|8|8|||
-422|20|Luisa Fernandez|domicilio|2026-03-14 22:0|144000|entregado|0|0|Calle 70 #22-73||
-423|15|Felipe Restrepo|local|2026-03-14 15:8|81000|cancelado|8|8|||
-424|10|Valentina Castro|local|2026-03-14 15:52|16000|entregado|2|2|||
-425|9|Andres Herrera|local|2026-03-14 11:1|100000|entregado|2|2|||
-426|16|Natalia Cardenas|local|2026-03-14 10:53|153000|entregado|6|6|||
-427|10|Valentina Castro|domicilio|2026-03-14 11:11|21000|abierto|0|0|Calle 63 #50-46||
-428|12|Isabella Moreno|domicilio|2026-03-14 22:52|84000|entregado|0|0|Calle 33 #14-36||
-429|20|Luisa Fernandez|local|2026-03-14 16:56|15000|entregado|7|7|||
-430|3|Juan Perez|local|2026-03-14 10:39|108000|entregado|1|1|||
-431|5|Pedro Rodriguez|local|2026-03-14 13:44|92000|cancelado|7|7|||
-432|7|Diego Ramirez|domicilio|2026-03-15 13:0|25000|cancelado|0|0|Calle 25 #39-91||
-433|10|Valentina Castro|local|2026-03-15 10:41|32000|entregado|8|8|||
-434|2|Maria Garcia|domicilio|2026-03-15 16:56|24000|entregado|0|0|Calle 67 #37-62||
-435|7|Diego Ramirez|local|2026-03-15 11:10|97000|entregado|7|7|||
-436|2|Maria Garcia|local|2026-03-15 21:2|36000|entregado|5|5|||
-437|3|Juan Perez|domicilio|2026-03-15 13:18|131000|entregado|0|0|Calle 62 #47-26||
-438|9|Andres Herrera|domicilio|2026-03-15 21:42|5000|entregado|0|0|Calle 46 #7-67||
-439|17|Julian Ospina|local|2026-03-15 20:36|117000|entregado|4|4|||
-440|16|Natalia Cardenas|local|2026-03-15 14:50|16000|entregado|6|6|||
-441|16|Natalia Cardenas|local|2026-03-15 21:45|16000|entregado|3|3|||
-442|15|Felipe Restrepo|local|2026-03-15 17:35|145000|entregado|2|2|||
-443|7|Diego Ramirez|local|2026-03-15 20:2|157000|abierto|5|5|||
-444|18|Paola Quintero|local|2026-03-15 19:2|100000|entregado|2|2|||
-445|5|Pedro Rodriguez|local|2026-03-15 11:46|30000|entregado|10|10|||
-446|1|Carlos Lopez|domicilio|2026-03-15 13:4|138000|entregado|0|0|Calle 41 #26-35||
-447|11|Camilo Vargas|local|2026-03-15 15:22|15000|entregado|8|8|||
-448|15|Felipe Restrepo|domicilio|2026-03-15 16:10|51000|cancelado|0|0|Calle 81 #46-46||
-449|1|Carlos Lopez|local|2026-03-15 13:22|170000|entregado|9|9|||
-450|20|Luisa Fernandez|local|2026-03-16 22:30|60000|entregado|5|5|||
-451|7|Diego Ramirez|local|2026-03-16 21:57|66000|entregado|5|5|||
-452|13|Sebastian Rojas|local|2026-03-16 16:13|66000|entregado|2|2|||
-453|8|Sofia Torres|domicilio|2026-03-16 22:27|171000|entregado|0|0|Calle 66 #21-38||
-454|19|Rodrigo Mendoza|local|2026-03-16 15:47|243000|entregado|8|8|||
-455|6|Laura Sanchez|local|2026-03-16 17:50|66000|cancelado|2|2|||
-456|20|Luisa Fernandez|local|2026-03-16 17:0|39000|entregado|8|8|||
-457|17|Julian Ospina|domicilio|2026-03-16 11:7|106000|entregado|0|0|Calle 48 #44-87||
-458|8|Sofia Torres|domicilio|2026-03-16 21:2|91000|entregado|0|0|Calle 66 #21-38||
-459|20|Luisa Fernandez|local|2026-03-16 19:2|106000|cancelado|1|1|||
-460|15|Felipe Restrepo|local|2026-03-16 14:49|120000|entregado|5|5|||
-461|10|Valentina Castro|local|2026-03-16 14:2|21000|entregado|1|1|||
-462|13|Sebastian Rojas|local|2026-03-16 19:22|14000|cancelado|9|9|||
-463|7|Diego Ramirez|local|2026-03-16 21:5|16000|cancelado|7|7|||
-464|11|Camilo Vargas|local|2026-03-16 18:29|37000|entregado|9|9|||
-465|16|Natalia Cardenas|domicilio|2026-03-16 21:33|124000|entregado|0|0|Calle 30 #16-28||
-466|9|Andres Herrera|local|2026-03-16 17:32|76000|entregado|4|4|||
-467|9|Andres Herrera|local|2026-03-16 10:59|8000|entregado|5|5|||
-468|20|Luisa Fernandez|local|2026-03-16 15:1|68000|entregado|10|10|||
-469|6|Laura Sanchez|local|2026-03-17 17:55|20000|entregado|8|8|||
-470|3|Juan Perez|local|2026-03-17 15:8|15000|cancelado|7|7|||
-471|7|Diego Ramirez|local|2026-03-17 19:13|34000|cancelado|8|8|||
-472|9|Andres Herrera|local|2026-03-17 19:32|78000|entregado|8|8|||
-473|18|Paola Quintero|local|2026-03-17 11:31|15000|entregado|10|10|||
-474|4|Ana Martinez|domicilio|2026-03-17 21:29|139000|entregado|0|0|Calle 100 #40-43||
-475|16|Natalia Cardenas|domicilio|2026-03-17 17:9|170000|entregado|0|0|Calle 30 #16-28||
-476|1|Carlos Lopez|domicilio|2026-03-17 19:30|53000|entregado|0|0|Calle 41 #26-35||
-477|19|Rodrigo Mendoza|domicilio|2026-03-17 18:41|159000|entregado|0|0|Calle 97 #32-71||
-478|3|Juan Perez|local|2026-03-17 16:4|96000|entregado|4|4|||
-479|1|Carlos Lopez|local|2026-03-17 10:30|47000|entregado|3|3|||
-480|2|Maria Garcia|domicilio|2026-03-17 10:3|73000|entregado|0|0|Calle 67 #37-62||
-481|14|Daniela Mendoza|local|2026-03-17 11:51|64000|entregado|1|1|||
-482|13|Sebastian Rojas|local|2026-03-18 14:6|12000|entregado|10|10|||
-483|7|Diego Ramirez|local|2026-03-18 11:15|114000|entregado|7|7|||
-484|7|Diego Ramirez|local|2026-03-18 16:18|72000|entregado|9|9|||
-485|2|Maria Garcia|local|2026-03-18 10:53|189000|entregado|2|2|||
-486|10|Valentina Castro|local|2026-03-18 11:20|137000|entregado|2|2|||
-487|2|Maria Garcia|local|2026-03-18 14:47|57000|abierto|3|3|||
-488|9|Andres Herrera|local|2026-03-18 13:9|21000|entregado|9|9|||
-489|3|Juan Perez|domicilio|2026-03-18 18:23|141000|entregado|0|0|Calle 62 #47-26||
-490|20|Luisa Fernandez|local|2026-03-18 22:39|114000|entregado|6|6|||
-491|2|Maria Garcia|domicilio|2026-03-18 11:19|61000|entregado|0|0|Calle 67 #37-62||
-492|10|Valentina Castro|local|2026-03-18 22:49|141000|cancelado|4|4|||
-493|3|Juan Perez|local|2026-03-18 11:50|55000|cancelado|10|10|||
-494|2|Maria Garcia|local|2026-03-18 21:53|84000|entregado|3|3|||
-495|20|Luisa Fernandez|domicilio|2026-03-18 19:27|158000|entregado|0|0|Calle 70 #22-73||
-496|13|Sebastian Rojas|local|2026-03-18 12:44|165000|entregado|5|5|||
-497|9|Andres Herrera|local|2026-03-18 15:22|82000|abierto|11|1|||
-498|16|Natalia Cardenas|domicilio|2026-03-18 13:26|10000|abierto|0|0|Calle 30 #16-28||
-499|17|Julian Ospina|local|2026-03-18 10:9|51000|entregado|11|1|||
-500|3|Juan Perez|domicilio|2026-03-19 16:7|122000|entregado|0|0|Calle 62 #47-26||
-501|2|Maria Garcia|domicilio|2026-03-19 17:51|155000|entregado|0|0|Calle 67 #37-62||
-502|20|Luisa Fernandez|local|2026-03-19 22:9|166000|entregado|1|1|||
-503|10|Valentina Castro|domicilio|2026-03-19 19:44|99000|entregado|0|0|Calle 63 #50-46||
-504|7|Diego Ramirez|local|2026-03-19 14:1|22000|abierto|8|8|||
-505|2|Maria Garcia|domicilio|2026-03-19 20:40|45000|entregado|0|0|Calle 67 #37-62||
-506|14|Daniela Mendoza|local|2026-03-19 22:1|120000|entregado|11|1|||
-507|20|Luisa Fernandez|local|2026-03-19 10:34|51000|entregado|8|8|||
-508|10|Valentina Castro|local|2026-03-19 21:26|168000|entregado|1|1|||
-509|20|Luisa Fernandez|local|2026-03-19 12:17|89000|cancelado|10|10|||
-510|11|Camilo Vargas|local|2026-03-19 16:40|13000|entregado|5|5|||
-511|18|Paola Quintero|local|2026-03-19 20:14|33000|entregado|3|3|||
-512|15|Felipe Restrepo|local|2026-03-19 11:27|165000|entregado|7|7|||
-513|19|Rodrigo Mendoza|local|2026-03-19 13:26|33000|entregado|10|10|||
-514|3|Juan Perez|local|2026-03-19 12:43|64000|entregado|1|1|||
-515|12|Isabella Moreno|local|2026-03-19 22:2|50000|entregado|4|4|||
-516|20|Luisa Fernandez|local|2026-03-19 15:29|96000|entregado|7|7|||
-517|11|Camilo Vargas|domicilio|2026-03-19 12:28|36000|entregado|0|0|Calle 11 #11-46||
-518|2|Maria Garcia|local|2026-03-19 21:33|63000|entregado|1|1|||
-519|17|Julian Ospina|domicilio|2026-03-19 18:22|64000|entregado|0|0|Calle 48 #44-87||
-520|14|Daniela Mendoza|local|2026-03-19 16:11|104000|entregado|3|3|||
-521|10|Valentina Castro|local|2026-03-19 21:12|230000|cancelado|8|8|||
-522|6|Laura Sanchez|domicilio|2026-03-19 15:26|96000|entregado|0|0|Calle 18 #6-27||
-523|3|Juan Perez|local|2026-03-20 15:8|99000|entregado|6|6|||
-524|4|Ana Martinez|local|2026-03-20 20:11|24000|entregado|7|7|||
-525|18|Paola Quintero|domicilio|2026-03-20 14:7|25000|entregado|0|0|Calle 26 #18-20||
-526|7|Diego Ramirez|local|2026-03-20 21:52|38000|abierto|3|3|||
-527|6|Laura Sanchez|local|2026-03-20 21:5|64000|cancelado|8|8|||
-528|14|Daniela Mendoza|local|2026-03-20 22:14|76000|entregado|6|6|||
-529|18|Paola Quintero|local|2026-03-20 21:54|49000|entregado|5|5|||
-530|1|Carlos Lopez|domicilio|2026-03-20 15:50|45000|entregado|0|0|Calle 41 #26-35||
-531|7|Diego Ramirez|local|2026-03-20 11:54|170000|entregado|4|4|||
-532|13|Sebastian Rojas|domicilio|2026-03-20 17:0|50000|entregado|0|0|Calle 28 #41-99||
-533|16|Natalia Cardenas|local|2026-03-20 14:37|98000|entregado|6|6|||
-534|11|Camilo Vargas|local|2026-03-20 21:40|95000|entregado|6|6|||
-535|9|Andres Herrera|domicilio|2026-03-20 10:55|50000|entregado|0|0|Calle 46 #7-67||
-536|1|Carlos Lopez|local|2026-03-20 18:20|104000|cancelado|2|2|||
-537|5|Pedro Rodriguez|local|2026-03-20 18:10|6000|entregado|10|10|||
-538|4|Ana Martinez|local|2026-03-21 18:5|118000|entregado|1|1|||
-539|14|Daniela Mendoza|local|2026-03-21 17:25|156000|entregado|6|6|||
-540|20|Luisa Fernandez|local|2026-03-21 16:47|18000|entregado|10|10|||
-541|20|Luisa Fernandez|domicilio|2026-03-21 15:33|81000|entregado|0|0|Calle 70 #22-73||
-542|19|Rodrigo Mendoza|local|2026-03-21 13:54|45000|entregado|11|1|||
-543|4|Ana Martinez|local|2026-03-21 16:29|84000|entregado|7|7|||
-544|6|Laura Sanchez|local|2026-03-21 21:28|68000|abierto|6|6|||
-545|15|Felipe Restrepo|local|2026-03-21 22:3|82000|entregado|6|6|||
-546|2|Maria Garcia|local|2026-03-21 13:20|129000|entregado|5|5|||
-547|2|Maria Garcia|local|2026-03-21 10:23|195000|entregado|9|9|||
-548|10|Valentina Castro|local|2026-03-21 10:39|69000|abierto|8|8|||
-549|10|Valentina Castro|local|2026-03-21 17:46|95000|cancelado|8|8|||
-550|17|Julian Ospina|local|2026-03-21 22:12|30000|entregado|11|1|||
-551|13|Sebastian Rojas|local|2026-03-21 12:42|172000|entregado|7|7|||
-552|16|Natalia Cardenas|local|2026-03-21 13:20|44000|entregado|4|4|||
-553|20|Luisa Fernandez|local|2026-03-21 11:13|76000|abierto|1|1|||
-554|6|Laura Sanchez|local|2026-03-22 21:53|30000|entregado|1|1|||
-555|10|Valentina Castro|local|2026-03-22 22:46|37000|entregado|11|1|||
-556|15|Felipe Restrepo|local|2026-03-22 11:9|74000|entregado|10|10|||
-557|7|Diego Ramirez|domicilio|2026-03-22 10:49|36000|entregado|0|0|Calle 25 #39-91||
-558|10|Valentina Castro|domicilio|2026-03-22 17:7|13000|entregado|0|0|Calle 63 #50-46||
-559|2|Maria Garcia|domicilio|2026-03-22 11:52|15000|entregado|0|0|Calle 67 #37-62||
-560|7|Diego Ramirez|local|2026-03-22 21:17|66000|entregado|1|1|||
-561|8|Sofia Torres|domicilio|2026-03-22 16:9|18000|entregado|0|0|Calle 66 #21-38||
-562|5|Pedro Rodriguez|local|2026-03-22 21:30|138000|cancelado|4|4|||
-563|4|Ana Martinez|local|2026-03-22 22:11|38000|cancelado|5|5|||
-564|18|Paola Quintero|local|2026-03-22 12:23|15000|entregado|8|8|||
-565|6|Laura Sanchez|domicilio|2026-03-22 20:11|15000|entregado|0|0|Calle 18 #6-27||
-566|14|Daniela Mendoza|local|2026-03-22 21:38|37000|entregado|3|3|||
-567|12|Isabella Moreno|local|2026-03-22 20:54|41000|abierto|9|9|||
-568|13|Sebastian Rojas|local|2026-03-22 12:39|55000|entregado|1|1|||
-569|16|Natalia Cardenas|domicilio|2026-03-23 17:29|166000|entregado|0|0|Calle 30 #16-28||
-570|14|Daniela Mendoza|local|2026-03-23 11:58|21000|entregado|8|8|||
-571|7|Diego Ramirez|domicilio|2026-03-23 15:29|45000|entregado|0|0|Calle 25 #39-91||
-572|7|Diego Ramirez|local|2026-03-23 18:35|106000|entregado|6|6|||
-573|7|Diego Ramirez|domicilio|2026-03-23 13:25|110000|entregado|0|0|Calle 25 #39-91||
-574|17|Julian Ospina|domicilio|2026-03-23 16:58|64000|entregado|0|0|Calle 48 #44-87||
-575|11|Camilo Vargas|domicilio|2026-03-23 10:16|154000|entregado|0|0|Calle 11 #11-46||
-576|14|Daniela Mendoza|local|2026-03-23 14:48|53000|entregado|5|5|||
-577|18|Paola Quintero|domicilio|2026-03-23 11:3|8000|cancelado|0|0|Calle 26 #18-20||
-578|2|Maria Garcia|domicilio|2026-03-23 20:41|146000|cancelado|0|0|Calle 67 #37-62||
-579|11|Camilo Vargas|local|2026-03-22 16:23|103000|entregado|2|2|||
-580|3|Juan Perez|domicilio|2026-03-22 22:12|106000|entregado|0|0|Calle 62 #47-26||
-581|2|Maria Garcia|local|2026-03-22 10:32|105000|abierto|7|7|||
-582|8|Sofia Torres|domicilio|2026-03-22 11:44|117000|entregado|0|0|Calle 66 #21-38||
-583|10|Valentina Castro|local|2026-03-22 10:33|87000|entregado|10|10|||
-584|17|Julian Ospina|local|2026-03-22 21:16|27000|entregado|2|2|||
-585|5|Pedro Rodriguez|domicilio|2026-03-22 12:42|164000|entregado|0|0|Calle 69 #34-18||
-586|2|Maria Garcia|domicilio|2026-03-22 11:32|56000|entregado|0|0|Calle 67 #37-62||
-587|7|Diego Ramirez|local|2026-03-22 18:9|55000|entregado|2|2|||
-588|10|Valentina Castro|domicilio|2026-03-22 13:42|69000|entregado|0|0|Calle 63 #50-46||
-589|3|Juan Perez|local|2026-03-22 16:9|181000|entregado|6|6|||
-590|15|Felipe Restrepo|domicilio|2026-03-22 18:49|52000|entregado|0|0|Calle 81 #46-46||
-591|8|Sofia Torres|domicilio|2026-03-22 14:8|116000|entregado|0|0|Calle 66 #21-38||
-592|2|Maria Garcia|local|2026-03-23 22:44|7000|entregado|5|5|||
-593|10|Valentina Castro|local|2026-03-23 12:1|84000|entregado|9|9|||
-594|10|Valentina Castro|local|2026-03-23 10:5|43000|abierto|1|1|||
-595|11|Camilo Vargas|local|2026-03-23 10:32|108000|entregado|8|8|||
-596|20|Luisa Fernandez|local|2026-03-23 11:36|62000|entregado|2|2|||
-597|20|Luisa Fernandez|local|2026-03-23 19:25|42000|entregado|9|9|||
-598|9|Andres Herrera|domicilio|2026-03-23 22:59|56000|entregado|0|0|Calle 46 #7-67||
-599|6|Laura Sanchez|domicilio|2026-03-23 16:29|40000|entregado|0|0|Calle 18 #6-27||
-600|7|Diego Ramirez|domicilio|2026-03-23 22:10|81000|entregado|0|0|Calle 25 #39-91||
-601|10|Valentina Castro|local|2026-03-23 21:19|20000|entregado|6|6|||
-602|3|Juan Perez|domicilio|2026-03-23 19:11|37000|entregado|0|0|Calle 62 #47-26||
-603|14|Daniela Mendoza|local|2026-03-23 15:21|136000|entregado|4|4|||
-604|3|Juan Perez|domicilio|2026-03-23 20:59|133000|entregado|0|0|Calle 62 #47-26||
-605|9|Andres Herrera|local|2026-03-23 20:21|117000|entregado|8|8|||
-606|3|Juan Perez|domicilio|2026-03-23 18:27|137000|entregado|0|0|Calle 62 #47-26||
-607|19|Rodrigo Mendoza|local|2026-03-23 20:34|96000|entregado|11|1|||
-608|3|Juan Perez|local|2026-03-23 21:28|66000|entregado|3|3|||
-609|17|Julian Ospina|local|2026-03-08 22:47|105000|entregado|9|9|||
-610|17|Julian Ospina|local|2026-03-08 14:17|123000|abierto|1|1|||
-611|6|Laura Sanchez|local|2026-03-08 20:3|58000|entregado|2|2|||
-612|2|Maria Garcia|local|2026-03-08 16:31|84000|entregado|2|2|||
-613|3|Juan Perez|local|2026-03-08 15:31|156000|entregado|7|7|||
-614|14|Daniela Mendoza|local|2026-03-08 17:44|76000|entregado|4|4|||
-615|2|Maria Garcia|local|2026-03-08 10:50|81000|entregado|11|1|||
-616|11|Camilo Vargas|local|2026-03-08 13:5|63000|cancelado|8|8|||
-617|1|Carlos Lopez|local|2026-03-08 13:9|44000|entregado|2|2|||
-618|16|Natalia Cardenas|local|2026-03-08 11:17|108000|entregado|7|7|||
-619|5|Pedro Rodriguez|domicilio|2026-03-08 14:18|80000|entregado|0|0|Calle 69 #34-18||
-620|18|Paola Quintero|local|2026-03-08 17:58|77000|entregado|5|5|||
-621|13|Sebastian Rojas|local|2026-03-08 18:28|75000|entregado|6|6|||
-622|16|Natalia Cardenas|domicilio|2026-03-08 19:54|122000|entregado|0|0|Calle 30 #16-28||
-623|18|Paola Quintero|local|2026-03-08 16:46|104000|entregado|3|3|||
-624|17|Julian Ospina|local|2026-03-08 22:57|39000|entregado|9|9|||
-625|8|Sofia Torres|local|2026-03-08 20:9|100000|entregado|1|1|||
-626|15|Felipe Restrepo|domicilio|2026-03-08 21:26|162000|entregado|0|0|Calle 81 #46-46||
-627|20|Luisa Fernandez|domicilio|2026-03-08 15:40|144000|cancelado|0|0|Calle 70 #22-73||
-628|19|Rodrigo Mendoza|domicilio|2026-03-08 15:9|124000|entregado|0|0|Calle 97 #32-71||
-629|8|Sofia Torres|local|2026-03-08 12:35|18000|entregado|10|10|||
-630|1|Carlos Lopez|local|2026-03-08 11:14|30000|entregado|2|2|||
-631|6|Laura Sanchez|local|2026-03-08 22:28|21000|entregado|7|7|||
-632|15|Felipe Restrepo|domicilio|2026-03-08 17:29|102000|entregado|0|0|Calle 81 #46-46||
-633|3|Juan Perez|domicilio|2026-03-08 15:37|114000|entregado|0|0|Calle 62 #47-26||
-634|8|Sofia Torres|domicilio|2026-03-09 12:5|151000|entregado|0|0|Calle 66 #21-38||
-635|16|Natalia Cardenas|domicilio|2026-03-09 16:1|101000|entregado|0|0|Calle 30 #16-28||
-636|14|Daniela Mendoza|local|2026-03-09 20:0|14000|entregado|3|3|||
-637|9|Andres Herrera|local|2026-03-09 11:36|198000|entregado|10|10|||
-638|5|Pedro Rodriguez|local|2026-03-09 11:28|78000|cancelado|11|1|||
-639|17|Julian Ospina|local|2026-03-09 17:35|71000|entregado|2|2|||
-640|15|Felipe Restrepo|local|2026-03-09 17:22|134000|cancelado|11|1|||
-641|5|Pedro Rodriguez|local|2026-03-09 22:53|162000|entregado|10|10|||
-642|8|Sofia Torres|local|2026-03-09 10:27|44000|entregado|6|6|||
-643|2|Maria Garcia|local|2026-03-09 22:57|29000|entregado|8|8|||
-644|10|Valentina Castro|domicilio|2026-03-09 17:11|117000|cancelado|0|0|Calle 63 #50-46||
-645|8|Sofia Torres|local|2026-03-09 18:29|95000|cancelado|2|2|||
-646|12|Isabella Moreno|local|2026-03-09 13:11|12000|entregado|6|6|||
-647|8|Sofia Torres|domicilio|2026-03-09 16:11|225000|entregado|0|0|Calle 66 #21-38||
-648|19|Rodrigo Mendoza|local|2026-03-09 16:55|68000|entregado|6|6|||
-649|20|Luisa Fernandez|domicilio|2026-03-09 13:6|24000|entregado|0|0|Calle 70 #22-73||
-650|3|Juan Perez|domicilio|2026-03-09 21:7|36000|abierto|0|0|Calle 62 #47-26||
-651|5|Pedro Rodriguez|local|2026-03-09 11:59|90000|entregado|11|1|||
-652|16|Natalia Cardenas|domicilio|2026-03-09 12:10|128000|entregado|0|0|Calle 30 #16-28||
-653|1|Carlos Lopez|domicilio|2026-03-09 13:49|48000|cancelado|0|0|Calle 41 #26-35||
-654|4|Ana Martinez|domicilio|2026-03-09 18:25|44000|entregado|0|0|Calle 100 #40-43||
-655|5|Pedro Rodriguez|local|2026-03-09 20:36|91000|entregado|5|5|||
-656|2|Maria Garcia|local|2026-03-09 14:31|74000|entregado|9|9|||
-657|1|Carlos Lopez|local|2026-03-09 12:27|190000|entregado|3|3|||
-658|12|Isabella Moreno|local|2026-03-10 19:10|10000|entregado|7|7|||
-659|11|Camilo Vargas|domicilio|2026-03-10 19:57|71000|entregado|0|0|Calle 11 #11-46||
-660|5|Pedro Rodriguez|local|2026-03-10 10:1|219000|entregado|6|6|||
-661|14|Daniela Mendoza|domicilio|2026-03-10 15:28|207000|entregado|0|0|Calle 87 #26-95||
-662|13|Sebastian Rojas|domicilio|2026-03-10 15:19|188000|entregado|0|0|Calle 28 #41-99||
-663|12|Isabella Moreno|local|2026-03-10 12:17|22000|entregado|11|1|||
-664|7|Diego Ramirez|local|2026-03-10 20:20|126000|entregado|3|3|||
-665|13|Sebastian Rojas|local|2026-03-10 16:26|6000|entregado|1|1|||
-666|11|Camilo Vargas|local|2026-03-10 18:32|84000|entregado|9|9|||
-667|7|Diego Ramirez|domicilio|2026-03-10 14:48|16000|entregado|0|0|Calle 25 #39-91||
-668|18|Paola Quintero|local|2026-03-10 12:58|36000|entregado|6|6|||
-669|17|Julian Ospina|local|2026-03-10 21:58|120000|entregado|9|9|||
-670|6|Laura Sanchez|local|2026-03-10 18:32|72000|entregado|11|1|||
-671|17|Julian Ospina|domicilio|2026-03-10 10:38|69000|entregado|0|0|Calle 48 #44-87||
-672|18|Paola Quintero|local|2026-03-10 19:18|27000|abierto|5|5|||
-673|16|Natalia Cardenas|local|2026-03-10 13:23|8000|cancelado|11|1|||
-674|9|Andres Herrera|local|2026-03-10 11:56|76000|entregado|9|9|||
-675|17|Julian Ospina|domicilio|2026-03-10 10:50|28000|entregado|0|0|Calle 48 #44-87||
-676|8|Sofia Torres|domicilio|2026-03-10 11:36|21000|abierto|0|0|Calle 66 #21-38||
-677|13|Sebastian Rojas|local|2026-03-10 17:16|66000|entregado|6|6|||
-678|4|Ana Martinez|domicilio|2026-03-10 20:0|63000|entregado|0|0|Calle 100 #40-43||
-679|18|Paola Quintero|local|2026-03-10 21:54|7000|entregado|5|5|||
-680|4|Ana Martinez|local|2026-03-10 13:36|114000|cancelado|9|9|||
-681|9|Andres Herrera|local|2026-03-10 18:19|256000|entregado|2|2|||
-682|11|Camilo Vargas|local|2026-03-11 16:7|57000|entregado|2|2|||
-683|18|Paola Quintero|local|2026-03-11 20:32|30000|entregado|9|9|||
-684|15|Felipe Restrepo|domicilio|2026-03-11 12:44|24000|abierto|0|0|Calle 81 #46-46||
-685|14|Daniela Mendoza|local|2026-03-11 14:16|48000|cancelado|1|1|||
-686|17|Julian Ospina|local|2026-03-11 10:10|80000|entregado|3|3|||
-687|19|Rodrigo Mendoza|domicilio|2026-03-11 21:7|188000|entregado|0|0|Calle 97 #32-71||
-688|15|Felipe Restrepo|local|2026-03-11 20:4|24000|abierto|9|9|||
-689|16|Natalia Cardenas|domicilio|2026-03-11 18:41|14000|cancelado|0|0|Calle 30 #16-28||
-690|3|Juan Perez|domicilio|2026-03-11 21:26|90000|entregado|0|0|Calle 62 #47-26||
-691|3|Juan Perez|local|2026-03-11 17:36|113000|entregado|3|3|||
-692|18|Paola Quintero|local|2026-03-11 13:14|96000|entregado|10|10|||
-693|12|Isabella Moreno|local|2026-03-11 15:15|89000|entregado|8|8|||
-694|7|Diego Ramirez|domicilio|2026-03-11 17:55|172000|entregado|0|0|Calle 25 #39-91||
-695|12|Isabella Moreno|domicilio|2026-03-11 12:35|31000|entregado|0|0|Calle 33 #14-36||
-696|10|Valentina Castro|local|2026-03-11 10:38|21000|abierto|9|9|||
-697|16|Natalia Cardenas|domicilio|2026-03-11 19:9|128000|entregado|0|0|Calle 30 #16-28||
-698|20|Luisa Fernandez|domicilio|2026-03-11 11:26|122000|cancelado|0|0|Calle 70 #22-73||
-699|5|Pedro Rodriguez|domicilio|2026-03-11 17:54|228000|entregado|0|0|Calle 69 #34-18||
-700|16|Natalia Cardenas|local|2026-03-12 17:20|38000|abierto|10|10|||
-701|2|Maria Garcia|domicilio|2026-03-12 15:55|51000|entregado|0|0|Calle 67 #37-62||
-702|10|Valentina Castro|local|2026-03-12 14:24|93000|abierto|4|4|||
-703|4|Ana Martinez|local|2026-03-12 22:32|66000|abierto|9|9|||
-704|15|Felipe Restrepo|domicilio|2026-03-12 10:25|95000|entregado|0|0|Calle 81 #46-46||
-705|8|Sofia Torres|domicilio|2026-03-12 10:5|64000|entregado|0|0|Calle 66 #21-38||
-706|9|Andres Herrera|local|2026-03-12 19:33|46000|entregado|4|4|||
-707|6|Laura Sanchez|local|2026-03-12 21:17|18000|entregado|10|10|||
-708|1|Carlos Lopez|local|2026-03-12 14:9|15000|entregado|2|2|||
-709|8|Sofia Torres|domicilio|2026-03-12 16:1|37000|entregado|0|0|Calle 66 #21-38||
-710|10|Valentina Castro|local|2026-03-12 10:31|122000|entregado|3|3|||
-711|11|Camilo Vargas|local|2026-03-12 13:2|153000|cancelado|2|2|||
-712|15|Felipe Restrepo|domicilio|2026-03-12 17:50|116000|entregado|0|0|Calle 81 #46-46||
-713|17|Julian Ospina|domicilio|2026-03-13 16:56|152000|entregado|0|0|Calle 48 #44-87||
-714|7|Diego Ramirez|domicilio|2026-03-13 20:28|44000|entregado|0|0|Calle 25 #39-91||
-715|4|Ana Martinez|local|2026-03-13 18:44|136000|entregado|8|8|||
-716|20|Luisa Fernandez|domicilio|2026-03-13 18:52|66000|cancelado|0|0|Calle 70 #22-73||
-717|13|Sebastian Rojas|local|2026-03-13 19:42|198000|entregado|3|3|||
-718|18|Paola Quintero|local|2026-03-13 12:9|124000|entregado|11|1|||
-719|3|Juan Perez|local|2026-03-13 18:0|10000|entregado|11|1|||
-720|11|Camilo Vargas|domicilio|2026-03-13 22:49|56000|entregado|0|0|Calle 11 #11-46||
-721|4|Ana Martinez|local|2026-03-13 16:41|43000|entregado|7|7|||
-722|5|Pedro Rodriguez|domicilio|2026-03-13 13:29|223000|entregado|0|0|Calle 69 #34-18||
-723|5|Pedro Rodriguez|local|2026-03-13 12:11|54000|entregado|1|1|||
-724|19|Rodrigo Mendoza|domicilio|2026-03-13 15:51|91000|cancelado|0|0|Calle 97 #32-71||
-725|1|Carlos Lopez|local|2026-03-13 16:46|32000|abierto|3|3|||
-726|11|Camilo Vargas|local|2026-03-13 15:28|53000|cancelado|8|8|||
-727|19|Rodrigo Mendoza|local|2026-03-13 15:47|82000|entregado|3|3|||
-728|5|Pedro Rodriguez|domicilio|2026-03-14 13:28|66000|entregado|0|0|Calle 69 #34-18||
-729|15|Felipe Restrepo|local|2026-03-14 16:7|24000|entregado|10|10|||
-730|15|Felipe Restrepo|domicilio|2026-03-14 20:13|114000|entregado|0|0|Calle 81 #46-46||
-731|5|Pedro Rodriguez|local|2026-03-14 14:18|21000|entregado|9|9|||
-732|18|Paola Quintero|local|2026-03-14 13:7|78000|entregado|8|8|||
-733|4|Ana Martinez|domicilio|2026-03-14 16:1|145000|entregado|0|0|Calle 100 #40-43||
-734|10|Valentina Castro|domicilio|2026-03-14 15:3|68000|entregado|0|0|Calle 63 #50-46||
-735|4|Ana Martinez|local|2026-03-14 18:46|24000|entregado|2|2|||
-736|6|Laura Sanchez|domicilio|2026-03-14 11:9|114000|entregado|0|0|Calle 18 #6-27||
-737|15|Felipe Restrepo|local|2026-03-15 18:53|89000|entregado|1|1|||
-738|11|Camilo Vargas|domicilio|2026-03-15 10:19|60000|entregado|0|0|Calle 11 #11-46||
-739|4|Ana Martinez|domicilio|2026-03-15 10:35|122000|entregado|0|0|Calle 100 #40-43||
-740|10|Valentina Castro|local|2026-03-15 12:22|128000|entregado|7|7|||
-741|2|Maria Garcia|local|2026-03-15 16:21|206000|entregado|3|3|||
-742|10|Valentina Castro|local|2026-03-15 22:20|33000|entregado|8|8|||
-743|8|Sofia Torres|local|2026-03-15 18:22|57000|entregado|4|4|||
-744|7|Diego Ramirez|domicilio|2026-03-15 18:38|100000|entregado|0|0|Calle 25 #39-91||
-745|12|Isabella Moreno|local|2026-03-15 20:23|60000|entregado|5|5|||
-746|3|Juan Perez|local|2026-03-16 13:19|15000|entregado|8|8|||
-747|5|Pedro Rodriguez|local|2026-03-16 12:32|148000|entregado|8|8|||
-748|14|Daniela Mendoza|local|2026-03-16 12:43|25000|cancelado|11|1|||
-749|3|Juan Perez|local|2026-03-16 18:33|58000|entregado|1|1|||
-750|14|Daniela Mendoza|local|2026-03-16 16:48|77000|cancelado|5|5|||
-751|8|Sofia Torres|local|2026-03-16 20:31|151000|entregado|2|2|||
-752|3|Juan Perez|domicilio|2026-03-16 12:8|22000|entregado|0|0|Calle 62 #47-26||
-753|3|Juan Perez|domicilio|2026-03-16 18:19|25000|entregado|0|0|Calle 62 #47-26||
-754|14|Daniela Mendoza|local|2026-03-16 13:26|179000|entregado|8|8|||
-755|6|Laura Sanchez|local|2026-03-16 20:53|45000|entregado|6|6|||
-756|2|Maria Garcia|local|2026-03-17 14:15|160000|entregado|9|9|||
-757|7|Diego Ramirez|local|2026-03-17 13:48|25000|entregado|10|10|||
-758|5|Pedro Rodriguez|local|2026-03-17 13:33|103000|entregado|4|4|||
-759|5|Pedro Rodriguez|local|2026-03-17 10:10|168000|entregado|2|2|||
-760|10|Valentina Castro|local|2026-03-17 22:38|154000|entregado|4|4|||
-761|9|Andres Herrera|domicilio|2026-03-17 12:0|139000|cancelado|0|0|Calle 46 #7-67||
-762|10|Valentina Castro|domicilio|2026-03-17 10:59|176000|entregado|0|0|Calle 63 #50-46||
-763|2|Maria Garcia|local|2026-03-17 14:56|50000|entregado|2|2|||
-764|7|Diego Ramirez|local|2026-03-18 19:3|21000|entregado|9|9|||
-765|15|Felipe Restrepo|local|2026-03-18 20:27|84000|entregado|9|9|||
-766|19|Rodrigo Mendoza|local|2026-03-18 18:53|119000|entregado|6|6|||
-767|11|Camilo Vargas|domicilio|2026-03-18 20:30|12000|entregado|0|0|Calle 11 #11-46||
-768|8|Sofia Torres|local|2026-03-18 17:3|65000|entregado|4|4|||
-769|5|Pedro Rodriguez|domicilio|2026-03-18 12:40|59000|entregado|0|0|Calle 69 #34-18||
-770|8|Sofia Torres|local|2026-03-18 11:48|55000|entregado|3|3|||
-771|9|Andres Herrera|domicilio|2026-03-18 22:19|27000|entregado|0|0|Calle 46 #7-67||
-772|9|Andres Herrera|local|2026-03-18 13:34|112000|entregado|3|3|||
-773|17|Julian Ospina|local|2026-03-18 15:27|9000|entregado|5|5|||
-774|17|Julian Ospina|local|2026-03-19 10:30|22000|entregado|6|6|||
-775|17|Julian Ospina|local|2026-03-19 16:0|88000|abierto|1|1|||
-776|6|Laura Sanchez|domicilio|2026-03-19 19:27|120000|entregado|0|0|Calle 18 #6-27||
-777|20|Luisa Fernandez|domicilio|2026-03-19 11:34|12000|entregado|0|0|Calle 70 #22-73||
-778|19|Rodrigo Mendoza|local|2026-03-19 11:5|35000|entregado|8|8|||
-779|10|Valentina Castro|domicilio|2026-03-19 11:11|30000|entregado|0|0|Calle 63 #50-46||
-780|13|Sebastian Rojas|domicilio|2026-03-19 18:52|98000|entregado|0|0|Calle 28 #41-99||
-781|2|Maria Garcia|domicilio|2026-03-19 21:0|79000|entregado|0|0|Calle 67 #37-62||
-782|5|Pedro Rodriguez|local|2026-03-19 15:41|82000|cancelado|1|1|||
-783|17|Julian Ospina|domicilio|2026-03-19 21:15|120000|entregado|0|0|Calle 48 #44-87||
-784|14|Daniela Mendoza|local|2026-03-19 10:47|30000|entregado|2|2|||
-785|14|Daniela Mendoza|domicilio|2026-03-19 13:55|81000|cancelado|0|0|Calle 87 #26-95||
-786|15|Felipe Restrepo|domicilio|2026-03-19 17:20|130000|entregado|0|0|Calle 81 #46-46||
-787|9|Andres Herrera|domicilio|2026-03-20 15:16|64000|entregado|0|0|Calle 46 #7-67||
-788|14|Daniela Mendoza|local|2026-03-20 19:46|36000|entregado|6|6|||
-789|10|Valentina Castro|local|2026-03-20 15:41|33000|entregado|4|4|||
-790|18|Paola Quintero|local|2026-03-20 14:37|168000|entregado|1|1|||
-791|9|Andres Herrera|local|2026-03-20 19:0|154000|cancelado|8|8|||
-792|10|Valentina Castro|local|2026-03-20 19:9|71000|entregado|9|9|||
-793|20|Luisa Fernandez|domicilio|2026-03-20 11:4|45000|entregado|0|0|Calle 70 #22-73||
-794|20|Luisa Fernandez|domicilio|2026-03-20 18:21|42000|entregado|0|0|Calle 70 #22-73||
-795|10|Valentina Castro|domicilio|2026-03-20 22:1|114000|entregado|0|0|Calle 63 #50-46||
-796|17|Julian Ospina|local|2026-03-20 22:55|101000|entregado|7|7|||
-797|1|Carlos Lopez|domicilio|2026-03-20 22:15|104000|abierto|0|0|Calle 41 #26-35||
-798|10|Valentina Castro|local|2026-03-20 18:15|9000|entregado|1|1|||
-799|12|Isabella Moreno|local|2026-03-20 12:43|126000|entregado|2|2|||
-800|5|Pedro Rodriguez|local|2026-03-20 21:0|81000|entregado|8|8|||
-801|8|Sofia Torres|local|2026-03-20 10:24|10000|entregado|11|1|||
-802|17|Julian Ospina|local|2026-03-20 22:34|80000|entregado|2|2|||
-803|18|Paola Quintero|local|2026-03-20 19:42|79000|entregado|3|3|||
-804|10|Valentina Castro|local|2026-03-20 14:20|45000|entregado|7|7|||
-805|15|Felipe Restrepo|local|2026-03-20 19:7|33000|entregado|6|6|||
-806|18|Paola Quintero|local|2026-03-20 15:43|77000|cancelado|8|8|||
-807|17|Julian Ospina|local|2026-03-20 10:52|21000|entregado|1|1|||
-808|14|Daniela Mendoza|domicilio|2026-03-20 11:10|234000|entregado|0|0|Calle 87 #26-95||
-809|13|Sebastian Rojas|local|2026-03-20 12:41|162000|entregado|5|5|||
-810|11|Camilo Vargas|local|2026-03-20 21:0|99000|entregado|5|5|||
-811|8|Sofia Torres|local|2026-03-20 21:56|39000|entregado|10|10|||
-812|5|Pedro Rodriguez|local|2026-03-21 21:24|94000|entregado|1|1|||
-813|4|Ana Martinez|local|2026-03-21 14:24|66000|entregado|6|6|||
-814|7|Diego Ramirez|local|2026-03-21 18:46|116000|entregado|2|2|||
-815|15|Felipe Restrepo|local|2026-03-21 18:59|43000|entregado|7|7|||
-816|20|Luisa Fernandez|domicilio|2026-03-21 16:5|187000|entregado|0|0|Calle 70 #22-73||
-817|10|Valentina Castro|local|2026-03-21 11:3|87000|cancelado|3|3|||
-818|1|Carlos Lopez|local|2026-03-21 21:35|64000|abierto|4|4|||
-819|18|Paola Quintero|local|2026-03-21 13:28|30000|entregado|4|4|||
-820|7|Diego Ramirez|domicilio|2026-03-21 15:17|84000|entregado|0|0|Calle 25 #39-91||
-821|13|Sebastian Rojas|domicilio|2026-03-21 17:0|106000|entregado|0|0|Calle 28 #41-99||
-822|19|Rodrigo Mendoza|domicilio|2026-03-21 19:7|59000|entregado|0|0|Calle 97 #32-71||
-823|13|Sebastian Rojas|local|2026-03-22 15:40|242000|abierto|9|9|||
-824|5|Pedro Rodriguez|local|2026-03-22 19:23|35000|entregado|2|2|||
-825|7|Diego Ramirez|local|2026-03-22 10:8|194000|entregado|11|1|||
-826|5|Pedro Rodriguez|local|2026-03-22 12:20|42000|cancelado|8|8|||
-827|19|Rodrigo Mendoza|local|2026-03-22 16:56|10000|entregado|3|3|||
-828|6|Laura Sanchez|local|2026-03-22 17:18|27000|entregado|3|3|||
-829|11|Camilo Vargas|local|2026-03-22 11:36|30000|abierto|1|1|||
-830|11|Camilo Vargas|local|2026-03-22 11:45|18000|entregado|4|4|||
-831|1|Carlos Lopez|domicilio|2026-03-22 16:40|6000|cancelado|0|0|Calle 41 #26-35||
-832|6|Laura Sanchez|domicilio|2026-03-22 15:48|135000|entregado|0|0|Calle 18 #6-27||
-833|10|Valentina Castro|domicilio|2026-03-22 13:28|52000|cancelado|0|0|Calle 63 #50-46||
-834|13|Sebastian Rojas|domicilio|2026-03-22 18:1|36000|entregado|0|0|Calle 28 #41-99||
-835|5|Pedro Rodriguez|domicilio|2026-03-22 22:34|74000|cancelado|0|0|Calle 69 #34-18||
-836|9|Andres Herrera|local|2026-03-22 12:38|10000|cancelado|6|6|||
-837|10|Valentina Castro|local|2026-03-22 21:3|15000|entregado|5|5|||
-838|12|Isabella Moreno|local|2026-03-22 15:25|90000|entregado|9|9|||
-839|10|Valentina Castro|domicilio|2026-03-22 15:35|9000|entregado|0|0|Calle 63 #50-46||
-840|2|Maria Garcia|domicilio|2026-03-22 15:54|14000|entregado|0|0|Calle 67 #37-62||
-841|6|Laura Sanchez|local|2026-03-22 17:34|47000|entregado|2|2|||
-842|1|Carlos Lopez|local|2026-03-22 12:7|15000|cancelado|6|6|||
-843|1|Carlos Lopez|local|2026-03-22 20:44|90000|entregado|7|7|||
-844|17|Julian Ospina|domicilio|2026-03-23 13:16|10000|entregado|0|0|Calle 48 #44-87||
-845|13|Sebastian Rojas|local|2026-03-23 17:52|63000|entregado|4|4|||
-846|4|Ana Martinez|domicilio|2026-03-23 15:59|111000|entregado|0|0|Calle 100 #40-43||
-847|13|Sebastian Rojas|local|2026-03-23 15:59|56000|entregado|11|1|||
-848|1|Carlos Lopez|domicilio|2026-03-23 10:2|96000|entregado|0|0|Calle 41 #26-35||
-849|6|Laura Sanchez|domicilio|2026-03-23 16:28|74000|entregado|0|0|Calle 18 #6-27||
-850|2|Maria Garcia|local|2026-03-23 15:58|125000|entregado|4|4|||
-851|18|Paola Quintero|domicilio|2026-03-23 11:52|16000|entregado|0|0|Calle 26 #18-20||
-852|17|Julian Ospina|local|2026-03-23 22:23|36000|entregado|1|1|||
-853|8|Sofia Torres|domicilio|2026-03-23 14:29|54000|entregado|0|0|Calle 66 #21-38||
-854|8|Sofia Torres|local|2026-03-23 17:40|28000|cancelado|8|8|||
-855|19|Rodrigo Mendoza|local|2026-03-23 15:1|80000|entregado|7|7|||
-856|12|Isabella Moreno|domicilio|2026-03-23 22:25|38000|entregado|0|0|Calle 33 #14-36||
-857|10|Valentina Castro|domicilio|2026-03-23 18:23|81000|entregado|0|0|Calle 63 #50-46||
-858|2|Maria Garcia|local|2026-03-23 21:43|40000|cancelado|6|6|||
-859|2|Maria Garcia|domicilio|2026-03-23 13:16|9000|entregado|0|0|Calle 67 #37-62||
-860|10|Valentina Castro|domicilio|2026-03-23 12:13|205000|cancelado|0|0|Calle 63 #50-46||
-861|16|Natalia Cardenas|local|2026-03-23 14:13|141000|entregado|2|2|||
-862|16|Natalia Cardenas|domicilio|2026-03-23 10:44|8000|entregado|0|0|Calle 30 #16-28||
-863|16|Natalia Cardenas|local|2026-03-23 13:23|80000|entregado|8|8|||
-864|17|Julian Ospina|local|2026-03-23 17:27|46000|cancelado|9|9|||
-865|5|Pedro Rodriguez|local|2026-03-23 15:26|48000|entregado|8|8|||
-866|8|Sofia Torres|local|2026-03-23 18:8|95000|entregado|6|6|||
-867|2|Maria Garcia|domicilio|2026-03-23 22:29|100000|entregado|0|0|Calle 67 #37-62||
-868|6|Laura Sanchez|local|2026-03-09 11:43|54000|entregado|1|1|||13;Cafe Americano;3;5000.000000;15000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
-869|20|Luisa Fernandez|domicilio|2026-03-09 20:7|96000|entregado|0|0|Calle 70 #22-73||1;Bandeja Paisa;3;32000.000000;96000.000000;
-870|15|Felipe Restrepo|local|2026-03-09 21:6|30000|entregado|5|5|||11;Limonada Natural;2;7000.000000;14000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
-871|17|Julian Ospina|local|2026-03-09 13:1|35000|entregado|1|1|||4;Empanadas x3;2;8000.000000;16000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
-872|13|Sebastian Rojas|domicilio|2026-03-09 15:8|62000|entregado|0|0|Calle 28 #41-99||1;Bandeja Paisa;1;32000.000000;32000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
-873|13|Sebastian Rojas|local|2026-03-09 14:30|126000|entregado|10|10|||13;Cafe Americano;2;5000.000000;10000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
-874|14|Daniela Mendoza|local|2026-03-09 17:29|52000|entregado|1|1|||4;Empanadas x3;1;8000.000000;8000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-875|9|Andres Herrera|local|2026-03-09 10:43|36000|cancelado|8|8|||15;Arepa con Queso;2;12000.000000;24000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-876|19|Rodrigo Mendoza|local|2026-03-09 17:11|84000|entregado|7|7|||1;Bandeja Paisa;1;32000.000000;32000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
-877|12|Isabella Moreno|local|2026-03-09 18:17|50000|entregado|5|5|||6;Arroz con Pollo;2;22000.000000;44000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;
-878|18|Paola Quintero|domicilio|2026-03-09 10:52|14000|abierto|0|0|Calle 26 #18-20||11;Limonada Natural;2;7000.000000;14000.000000;
-879|20|Luisa Fernandez|local|2026-03-09 18:41|37000|entregado|3|3|||13;Cafe Americano;3;5000.000000;15000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
-880|7|Diego Ramirez|domicilio|2026-03-09 21:29|96000|entregado|0|0|Calle 25 #39-91||13;Cafe Americano;3;5000.000000;15000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-881|11|Camilo Vargas|local|2026-03-09 15:10|24000|entregado|1|1|||5;Patacones con Hogao;2;12000.000000;24000.000000;
-882|6|Laura Sanchez|domicilio|2026-03-09 13:31|29000|entregado|0|0|Calle 18 #6-27||11;Limonada Natural;2;7000.000000;14000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-883|8|Sofia Torres|local|2026-03-09 18:18|119000|entregado|2|2|||13;Cafe Americano;1;5000.000000;5000.000000;~7;Churrasco;3;38000.000000;114000.000000;
-884|15|Felipe Restrepo|local|2026-03-09 11:19|54000|cancelado|4|4|||4;Empanadas x3;2;8000.000000;16000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-885|6|Laura Sanchez|domicilio|2026-03-09 17:20|45000|cancelado|0|0|Calle 18 #6-27||8;Ensalada Cesar;3;15000.000000;45000.000000;
-886|5|Pedro Rodriguez|local|2026-03-09 12:19|27000|entregado|7|7|||13;Cafe Americano;1;5000.000000;5000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-887|7|Diego Ramirez|domicilio|2026-03-09 21:57|32000|entregado|0|0|Calle 25 #39-91||6;Arroz con Pollo;1;22000.000000;22000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
-888|17|Julian Ospina|local|2026-03-09 12:8|187000|entregado|11|1|||9;Flan de Caramelo;1;9000.000000;9000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
-889|6|Laura Sanchez|domicilio|2026-03-09 19:5|88000|abierto|0|0|Calle 18 #6-27||9;Flan de Caramelo;1;9000.000000;9000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
-890|13|Sebastian Rojas|local|2026-03-09 15:54|15000|entregado|2|2|||13;Cafe Americano;3;5000.000000;15000.000000;
-891|4|Ana Martinez|domicilio|2026-03-10 22:41|76000|cancelado|0|0|Calle 100 #40-43||7;Churrasco;2;38000.000000;76000.000000;
-892|19|Rodrigo Mendoza|domicilio|2026-03-10 18:24|44000|abierto|0|0|Calle 97 #32-71||6;Arroz con Pollo;2;22000.000000;44000.000000;
-893|8|Sofia Torres|domicilio|2026-03-10 18:5|207000|entregado|0|0|Calle 66 #21-38||3;Sancocho de Gallina;3;25000.000000;75000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
-894|19|Rodrigo Mendoza|domicilio|2026-03-10 10:55|9000|entregado|0|0|Calle 97 #32-71||9;Flan de Caramelo;1;9000.000000;9000.000000;
-895|14|Daniela Mendoza|local|2026-03-10 20:49|158000|abierto|9|9|||8;Ensalada Cesar;2;15000.000000;30000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-896|20|Luisa Fernandez|domicilio|2026-03-10 10:41|68000|entregado|0|0|Calle 70 #22-73||9;Flan de Caramelo;1;9000.000000;9000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~7;Churrasco;1;38000.000000;38000.000000;
-897|2|Maria Garcia|domicilio|2026-03-10 11:52|110000|entregado|0|0|Calle 67 #37-62||18;Agua Mineral;3;3000.000000;9000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;
-898|16|Natalia Cardenas|local|2026-03-10 22:48|84000|entregado|1|1|||9;Flan de Caramelo;3;9000.000000;27000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-899|13|Sebastian Rojas|domicilio|2026-03-10 19:40|71000|entregado|0|0|Calle 28 #41-99||8;Ensalada Cesar;1;15000.000000;15000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
-900|18|Paola Quintero|local|2026-03-10 15:20|106000|cancelado|1|1|||10;Tres Leches;2;10000.000000;20000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
-901|2|Maria Garcia|domicilio|2026-03-10 19:11|18000|entregado|0|0|Calle 67 #37-62||9;Flan de Caramelo;2;9000.000000;18000.000000;
-902|20|Luisa Fernandez|domicilio|2026-03-10 11:55|92000|entregado|0|0|Calle 70 #22-73||11;Limonada Natural;1;7000.000000;7000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;
-903|16|Natalia Cardenas|local|2026-03-10 22:50|104000|entregado|5|5|||7;Churrasco;1;38000.000000;38000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
-904|20|Luisa Fernandez|local|2026-03-10 13:17|150000|entregado|8|8|||1;Bandeja Paisa;2;32000.000000;64000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
-905|11|Camilo Vargas|local|2026-03-10 14:1|30000|entregado|7|7|||8;Ensalada Cesar;2;15000.000000;30000.000000;
-906|7|Diego Ramirez|local|2026-03-11 21:30|30000|entregado|6|6|||10;Tres Leches;3;10000.000000;30000.000000;
-907|3|Juan Perez|local|2026-03-11 19:35|81000|entregado|7|7|||8;Ensalada Cesar;3;15000.000000;45000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-908|5|Pedro Rodriguez|local|2026-03-11 12:53|138000|entregado|4|4|||7;Churrasco;2;38000.000000;76000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-909|9|Andres Herrera|local|2026-03-11 20:14|119000|entregado|9|9|||5;Patacones con Hogao;2;12000.000000;24000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
-910|11|Camilo Vargas|local|2026-03-11 18:30|21000|entregado|3|3|||11;Limonada Natural;3;7000.000000;21000.000000;
-911|6|Laura Sanchez|local|2026-03-11 14:37|276000|entregado|8|8|||15;Arepa con Queso;2;12000.000000;24000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;~7;Churrasco;3;38000.000000;114000.000000;
-912|8|Sofia Torres|local|2026-03-11 20:1|260000|entregado|4|4|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~7;Churrasco;3;38000.000000;114000.000000;
-913|20|Luisa Fernandez|domicilio|2026-03-11 17:22|53000|entregado|0|0|Calle 70 #22-73||12;Jugo Natural;2;8000.000000;16000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-914|5|Pedro Rodriguez|local|2026-03-11 13:18|136000|abierto|9|9|||13;Cafe Americano;1;5000.000000;5000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-915|3|Juan Perez|domicilio|2026-03-11 11:35|56000|entregado|0|0|Calle 62 #47-26||2;Ajiaco Bogotano;2;28000.000000;56000.000000;
-916|6|Laura Sanchez|domicilio|2026-03-11 14:15|48000|entregado|0|0|Calle 18 #6-27||15;Arepa con Queso;1;12000.000000;12000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-917|5|Pedro Rodriguez|local|2026-03-11 17:19|116000|entregado|11|1|||11;Limonada Natural;2;7000.000000;14000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;
-918|12|Isabella Moreno|local|2026-03-11 21:2|64000|entregado|10|10|||1;Bandeja Paisa;2;32000.000000;64000.000000;
-919|3|Juan Perez|local|2026-03-11 18:56|144000|entregado|7|7|||15;Arepa con Queso;1;12000.000000;12000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-920|9|Andres Herrera|local|2026-03-11 15:10|30000|entregado|1|1|||10;Tres Leches;3;10000.000000;30000.000000;
-921|16|Natalia Cardenas|domicilio|2026-03-11 11:48|120000|entregado|0|0|Calle 30 #16-28||12;Jugo Natural;3;8000.000000;24000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
-922|5|Pedro Rodriguez|domicilio|2026-03-12 11:26|20000|entregado|0|0|Calle 69 #34-18||4;Empanadas x3;1;8000.000000;8000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-923|18|Paola Quintero|local|2026-03-12 15:52|110000|entregado|3|3|||15;Arepa con Queso;3;12000.000000;36000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-924|5|Pedro Rodriguez|local|2026-03-12 10:35|60000|entregado|6|6|||18;Agua Mineral;2;3000.000000;6000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~18;Agua Mineral;3;3000.000000;9000.000000;
-925|8|Sofia Torres|local|2026-03-12 14:18|28000|cancelado|5|5|||2;Ajiaco Bogotano;1;28000.000000;28000.000000;
-926|17|Julian Ospina|domicilio|2026-03-12 13:24|96000|abierto|0|0|Calle 48 #44-87||1;Bandeja Paisa;3;32000.000000;96000.000000;
-927|10|Valentina Castro|domicilio|2026-03-12 12:6|66000|entregado|0|0|Calle 63 #50-46||6;Arroz con Pollo;3;22000.000000;66000.000000;
-928|16|Natalia Cardenas|domicilio|2026-03-12 12:15|66000|entregado|0|0|Calle 30 #16-28||6;Arroz con Pollo;3;22000.000000;66000.000000;
-929|6|Laura Sanchez|local|2026-03-12 11:45|9000|entregado|8|8|||9;Flan de Caramelo;1;9000.000000;9000.000000;
-930|10|Valentina Castro|local|2026-03-13 11:17|130000|entregado|4|4|||10;Tres Leches;2;10000.000000;20000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;
-931|3|Juan Perez|domicilio|2026-03-13 18:55|60000|entregado|0|0|Calle 62 #47-26||15;Arepa con Queso;3;12000.000000;36000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
-932|11|Camilo Vargas|local|2026-03-13 19:6|124000|entregado|6|6|||12;Jugo Natural;2;8000.000000;16000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;
-933|4|Ana Martinez|local|2026-03-13 16:32|52000|entregado|10|10|||5;Patacones con Hogao;3;12000.000000;36000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
-934|6|Laura Sanchez|local|2026-03-13 18:57|36000|cancelado|6|6|||4;Empanadas x3;3;8000.000000;24000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-935|4|Ana Martinez|local|2026-03-13 17:50|22000|entregado|1|1|||6;Arroz con Pollo;1;22000.000000;22000.000000;
-936|8|Sofia Torres|local|2026-03-13 22:37|81000|entregado|3|3|||17;Queso De Albondigas;3;27000.000000;81000.000000;
-937|6|Laura Sanchez|local|2026-03-13 22:41|99000|entregado|3|3|||8;Ensalada Cesar;3;15000.000000;45000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
-938|12|Isabella Moreno|local|2026-03-13 22:57|32000|entregado|10|10|||1;Bandeja Paisa;1;32000.000000;32000.000000;
-939|20|Luisa Fernandez|local|2026-03-13 18:7|164000|entregado|1|1|||7;Churrasco;3;38000.000000;114000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
-940|20|Luisa Fernandez|local|2026-03-13 10:31|78000|entregado|4|4|||12;Jugo Natural;2;8000.000000;16000.000000;~7;Churrasco;1;38000.000000;38000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-941|9|Andres Herrera|local|2026-03-13 14:20|52000|entregado|9|9|||3;Sancocho de Gallina;1;25000.000000;25000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
-942|17|Julian Ospina|local|2026-03-13 12:6|43000|entregado|6|6|||12;Jugo Natural;2;8000.000000;16000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;
-943|9|Andres Herrera|domicilio|2026-03-13 18:15|158000|entregado|0|0|Calle 46 #7-67||2;Ajiaco Bogotano;3;28000.000000;84000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
-944|6|Laura Sanchez|local|2026-03-13 11:37|69000|entregado|3|3|||1;Bandeja Paisa;2;32000.000000;64000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
-945|20|Luisa Fernandez|domicilio|2026-03-13 15:42|49000|abierto|0|0|Calle 70 #22-73||15;Arepa con Queso;2;12000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
-946|8|Sofia Torres|domicilio|2026-03-13 10:42|87000|entregado|0|0|Calle 66 #21-38||8;Ensalada Cesar;3;15000.000000;45000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-947|20|Luisa Fernandez|domicilio|2026-03-13 22:51|127000|entregado|0|0|Calle 70 #22-73||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
-948|2|Maria Garcia|domicilio|2026-03-13 21:49|40000|entregado|0|0|Calle 67 #37-62||4;Empanadas x3;2;8000.000000;16000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
-949|12|Isabella Moreno|local|2026-03-13 14:16|197000|entregado|8|8|||1;Bandeja Paisa;3;32000.000000;96000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
-950|7|Diego Ramirez|domicilio|2026-03-13 11:2|33000|abierto|0|0|Calle 25 #39-91||8;Ensalada Cesar;2;15000.000000;30000.000000;~18;Agua Mineral;1;3000.000000;3000.000000;
-951|4|Ana Martinez|domicilio|2026-03-14 19:1|13000|entregado|0|0|Calle 100 #40-43||13;Cafe Americano;1;5000.000000;5000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
-952|20|Luisa Fernandez|local|2026-03-14 15:19|57000|entregado|1|1|||1;Bandeja Paisa;1;32000.000000;32000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
-953|14|Daniela Mendoza|domicilio|2026-03-14 14:3|27000|entregado|0|0|Calle 87 #26-95||17;Queso De Albondigas;1;27000.000000;27000.000000;
-954|3|Juan Perez|local|2026-03-14 11:25|78000|entregado|5|5|||11;Limonada Natural;2;7000.000000;14000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
-955|8|Sofia Torres|domicilio|2026-03-14 13:4|151000|entregado|0|0|Calle 66 #21-38||1;Bandeja Paisa;3;32000.000000;96000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
-956|20|Luisa Fernandez|local|2026-03-14 13:56|86000|entregado|3|3|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-957|18|Paola Quintero|local|2026-03-14 13:39|80000|entregado|6|6|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
-958|7|Diego Ramirez|domicilio|2026-03-14 12:43|69000|entregado|0|0|Calle 25 #39-91||15;Arepa con Queso;3;12000.000000;36000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;
-959|17|Julian Ospina|domicilio|2026-03-14 13:4|45000|entregado|0|0|Calle 48 #44-87||8;Ensalada Cesar;3;15000.000000;45000.000000;
-960|15|Felipe Restrepo|local|2026-03-14 21:17|22000|entregado|8|8|||6;Arroz con Pollo;1;22000.000000;22000.000000;
-961|18|Paola Quintero|local|2026-03-14 21:40|281000|entregado|8|8|||3;Sancocho de Gallina;1;25000.000000;25000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~7;Churrasco;3;38000.000000;114000.000000;~7;Churrasco;2;38000.000000;76000.000000;
-962|14|Daniela Mendoza|local|2026-03-14 11:34|7000|entregado|5|5|||11;Limonada Natural;1;7000.000000;7000.000000;
-963|4|Ana Martinez|local|2026-03-14 17:36|32000|entregado|6|6|||10;Tres Leches;2;10000.000000;20000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-964|11|Camilo Vargas|domicilio|2026-03-14 21:21|22000|entregado|0|0|Calle 11 #11-46||6;Arroz con Pollo;1;22000.000000;22000.000000;
-965|11|Camilo Vargas|local|2026-03-14 16:54|24000|abierto|6|6|||4;Empanadas x3;3;8000.000000;24000.000000;
-966|10|Valentina Castro|local|2026-03-14 19:11|53000|entregado|4|4|||9;Flan de Caramelo;1;9000.000000;9000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-967|6|Laura Sanchez|local|2026-03-14 17:27|62000|entregado|9|9|||5;Patacones con Hogao;2;12000.000000;24000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
-968|2|Maria Garcia|local|2026-03-15 11:24|82000|entregado|2|2|||1;Bandeja Paisa;2;32000.000000;64000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;
-969|1|Carlos Lopez|local|2026-03-15 19:36|54000|entregado|7|7|||17;Queso De Albondigas;2;27000.000000;54000.000000;
-970|15|Felipe Restrepo|local|2026-03-15 13:40|50000|entregado|11|1|||18;Agua Mineral;1;3000.000000;3000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
-971|2|Maria Garcia|domicilio|2026-03-15 17:40|54000|entregado|0|0|Calle 67 #37-62||17;Queso De Albondigas;2;27000.000000;54000.000000;
-972|8|Sofia Torres|local|2026-03-15 21:33|69000|entregado|9|9|||5;Patacones con Hogao;2;12000.000000;24000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
-973|8|Sofia Torres|domicilio|2026-03-15 19:34|18000|entregado|0|0|Calle 66 #21-38||9;Flan de Caramelo;2;9000.000000;18000.000000;
-974|7|Diego Ramirez|local|2026-03-15 22:47|46000|entregado|4|4|||11;Limonada Natural;1;7000.000000;7000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
-975|19|Rodrigo Mendoza|domicilio|2026-03-15 22:17|175000|abierto|0|0|Calle 97 #32-71||18;Agua Mineral;3;3000.000000;9000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
-976|7|Diego Ramirez|domicilio|2026-03-15 18:36|50000|abierto|0|0|Calle 25 #39-91||3;Sancocho de Gallina;2;25000.000000;50000.000000;
-977|10|Valentina Castro|local|2026-03-15 22:55|36000|entregado|1|1|||5;Patacones con Hogao;3;12000.000000;36000.000000;
-978|20|Luisa Fernandez|local|2026-03-15 21:33|25000|entregado|3|3|||3;Sancocho de Gallina;1;25000.000000;25000.000000;
-979|3|Juan Perez|local|2026-03-15 15:59|126000|entregado|11|1|||8;Ensalada Cesar;1;15000.000000;15000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
-980|3|Juan Perez|local|2026-03-15 18:10|24000|entregado|6|6|||5;Patacones con Hogao;2;12000.000000;24000.000000;
-981|1|Carlos Lopez|domicilio|2026-03-15 21:18|133000|entregado|0|0|Calle 41 #26-35||5;Patacones con Hogao;2;12000.000000;24000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-982|18|Paola Quintero|local|2026-03-15 19:28|34000|entregado|8|8|||15;Arepa con Queso;1;12000.000000;12000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
-983|6|Laura Sanchez|domicilio|2026-03-16 19:46|36000|entregado|0|0|Calle 18 #6-27||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;
-984|16|Natalia Cardenas|local|2026-03-16 20:15|131000|abierto|10|10|||12;Jugo Natural;1;8000.000000;8000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
-985|18|Paola Quintero|local|2026-03-16 14:25|47000|entregado|3|3|||1;Bandeja Paisa;1;32000.000000;32000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-986|7|Diego Ramirez|local|2026-03-16 15:25|84000|entregado|6|6|||10;Tres Leches;2;10000.000000;20000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;
-987|4|Ana Martinez|local|2026-03-16 14:25|158000|abierto|8|8|||10;Tres Leches;3;10000.000000;30000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-988|6|Laura Sanchez|domicilio|2026-03-16 20:35|128000|entregado|0|0|Calle 18 #6-27||9;Flan de Caramelo;3;9000.000000;27000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-989|12|Isabella Moreno|local|2026-03-16 21:51|166000|entregado|1|1|||8;Ensalada Cesar;3;15000.000000;45000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-990|13|Sebastian Rojas|local|2026-03-16 20:55|40000|entregado|5|5|||4;Empanadas x3;2;8000.000000;16000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;
-991|1|Carlos Lopez|local|2026-03-16 13:55|106000|entregado|2|2|||17;Queso De Albondigas;2;27000.000000;54000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;
-992|19|Rodrigo Mendoza|local|2026-03-16 19:35|45000|entregado|8|8|||8;Ensalada Cesar;1;15000.000000;15000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-993|11|Camilo Vargas|local|2026-03-16 10:59|162000|entregado|3|3|||8;Ensalada Cesar;2;15000.000000;30000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-994|6|Laura Sanchez|domicilio|2026-03-16 20:9|87000|entregado|0|0|Calle 18 #6-27||12;Jugo Natural;2;8000.000000;16000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-995|4|Ana Martinez|local|2026-03-16 20:38|140000|entregado|1|1|||4;Empanadas x3;3;8000.000000;24000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~18;Agua Mineral;1;3000.000000;3000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
-996|9|Andres Herrera|local|2026-03-16 15:44|77000|entregado|7|7|||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
-997|16|Natalia Cardenas|domicilio|2026-03-16 21:20|138000|entregado|0|0|Calle 30 #16-28||10;Tres Leches;3;10000.000000;30000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
-998|11|Camilo Vargas|local|2026-03-16 13:43|23000|entregado|3|3|||12;Jugo Natural;1;8000.000000;8000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
-999|7|Diego Ramirez|local|2026-03-16 11:30|171000|entregado|7|7|||6;Arroz con Pollo;3;22000.000000;66000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
-1000|13|Sebastian Rojas|local|2026-03-16 20:3|105000|entregado|7|7|||17;Queso De Albondigas;2;27000.000000;54000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1001|2|Maria Garcia|local|2026-03-16 17:11|60000|entregado|9|9|||4;Empanadas x3;1;8000.000000;8000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
-1002|4|Ana Martinez|local|2026-03-16 16:33|90000|entregado|9|9|||13;Cafe Americano;1;5000.000000;5000.000000;~7;Churrasco;1;38000.000000;38000.000000;~7;Churrasco;1;38000.000000;38000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
-1003|9|Andres Herrera|local|2026-03-17 21:27|162000|entregado|4|4|||6;Arroz con Pollo;1;22000.000000;22000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-1004|10|Valentina Castro|local|2026-03-17 17:22|35000|entregado|7|7|||18;Agua Mineral;3;3000.000000;9000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
-1005|8|Sofia Torres|local|2026-03-17 14:51|31000|entregado|11|1|||4;Empanadas x3;2;8000.000000;16000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-1006|16|Natalia Cardenas|domicilio|2026-03-17 11:53|48000|entregado|0|0|Calle 30 #16-28||10;Tres Leches;1;10000.000000;10000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
-1007|19|Rodrigo Mendoza|local|2026-03-17 22:14|174000|entregado|5|5|||17;Queso De Albondigas;1;27000.000000;27000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
-1008|13|Sebastian Rojas|domicilio|2026-03-17 21:5|38000|entregado|0|0|Calle 28 #41-99||7;Churrasco;1;38000.000000;38000.000000;
-1009|9|Andres Herrera|domicilio|2026-03-17 15:45|120000|entregado|0|0|Calle 46 #7-67||7;Churrasco;3;38000.000000;114000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;
-1010|12|Isabella Moreno|local|2026-03-17 20:26|75000|entregado|2|2|||3;Sancocho de Gallina;3;25000.000000;75000.000000;
-1011|7|Diego Ramirez|local|2026-03-18 22:5|38000|cancelado|8|8|||7;Churrasco;1;38000.000000;38000.000000;
-1012|11|Camilo Vargas|domicilio|2026-03-18 22:50|22000|entregado|0|0|Calle 11 #11-46||6;Arroz con Pollo;1;22000.000000;22000.000000;
-1013|19|Rodrigo Mendoza|local|2026-03-18 21:29|149000|abierto|10|10|||7;Churrasco;1;38000.000000;38000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-1014|15|Felipe Restrepo|local|2026-03-18 18:23|30000|entregado|10|10|||8;Ensalada Cesar;2;15000.000000;30000.000000;
-1015|16|Natalia Cardenas|local|2026-03-18 15:16|41000|entregado|11|1|||7;Churrasco;1;38000.000000;38000.000000;~18;Agua Mineral;1;3000.000000;3000.000000;
-1016|10|Valentina Castro|domicilio|2026-03-18 11:45|39000|entregado|0|0|Calle 63 #50-46||13;Cafe Americano;3;5000.000000;15000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
-1017|18|Paola Quintero|domicilio|2026-03-18 11:28|56000|entregado|0|0|Calle 26 #18-20||2;Ajiaco Bogotano;2;28000.000000;56000.000000;
-1018|15|Felipe Restrepo|local|2026-03-18 21:45|106000|abierto|11|1|||5;Patacones con Hogao;3;12000.000000;36000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-1019|10|Valentina Castro|domicilio|2026-03-18 21:25|100000|entregado|0|0|Calle 63 #50-46||7;Churrasco;2;38000.000000;76000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
-1020|5|Pedro Rodriguez|local|2026-03-18 16:48|93000|entregado|1|1|||8;Ensalada Cesar;2;15000.000000;30000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1021|9|Andres Herrera|domicilio|2026-03-18 18:33|66000|entregado|0|0|Calle 46 #7-67||6;Arroz con Pollo;3;22000.000000;66000.000000;
-1022|8|Sofia Torres|domicilio|2026-03-18 19:4|67000|entregado|0|0|Calle 66 #21-38||11;Limonada Natural;2;7000.000000;14000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
-1023|19|Rodrigo Mendoza|domicilio|2026-03-18 14:18|88000|entregado|0|0|Calle 97 #32-71||4;Empanadas x3;1;8000.000000;8000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
-1024|6|Laura Sanchez|local|2026-03-18 21:55|12000|entregado|10|10|||5;Patacones con Hogao;1;12000.000000;12000.000000;
-1025|17|Julian Ospina|local|2026-03-18 13:35|202000|entregado|7|7|||17;Queso De Albondigas;2;27000.000000;54000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
-1026|20|Luisa Fernandez|domicilio|2026-03-18 20:47|48000|entregado|0|0|Calle 70 #22-73||4;Empanadas x3;3;8000.000000;24000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
-1027|1|Carlos Lopez|domicilio|2026-03-18 16:18|133000|entregado|0|0|Calle 41 #26-35||18;Agua Mineral;2;3000.000000;6000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~7;Churrasco;1;38000.000000;38000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-1028|20|Luisa Fernandez|domicilio|2026-03-18 13:16|30000|entregado|0|0|Calle 70 #22-73||10;Tres Leches;3;10000.000000;30000.000000;
-1029|2|Maria Garcia|domicilio|2026-03-18 15:54|41000|entregado|0|0|Calle 67 #37-62||18;Agua Mineral;3;3000.000000;9000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
-1030|5|Pedro Rodriguez|local|2026-03-18 11:31|52000|entregado|6|6|||11;Limonada Natural;3;7000.000000;21000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;
-1031|2|Maria Garcia|domicilio|2026-03-19 14:20|125000|entregado|0|0|Calle 67 #37-62||18;Agua Mineral;2;3000.000000;6000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~7;Churrasco;2;38000.000000;76000.000000;
-1032|7|Diego Ramirez|local|2026-03-19 21:8|96000|entregado|7|7|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
-1033|15|Felipe Restrepo|domicilio|2026-03-19 19:25|120000|entregado|0|0|Calle 81 #46-46||13;Cafe Americano;2;5000.000000;10000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-1034|16|Natalia Cardenas|local|2026-03-19 22:50|141000|entregado|4|4|||12;Jugo Natural;3;8000.000000;24000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;
-1035|19|Rodrigo Mendoza|domicilio|2026-03-19 15:11|21000|entregado|0|0|Calle 97 #32-71||11;Limonada Natural;3;7000.000000;21000.000000;
-1036|12|Isabella Moreno|local|2026-03-19 17:9|19000|entregado|1|1|||13;Cafe Americano;2;5000.000000;10000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
-1037|13|Sebastian Rojas|local|2026-03-19 20:2|76000|cancelado|8|8|||15;Arepa con Queso;2;12000.000000;24000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
-1038|7|Diego Ramirez|domicilio|2026-03-19 17:26|137000|entregado|0|0|Calle 25 #39-91||13;Cafe Americano;1;5000.000000;5000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1039|5|Pedro Rodriguez|local|2026-03-19 15:0|210000|entregado|10|10|||7;Churrasco;3;38000.000000;114000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-1040|13|Sebastian Rojas|domicilio|2026-03-19 14:13|25000|entregado|0|0|Calle 28 #41-99||3;Sancocho de Gallina;1;25000.000000;25000.000000;
-1041|8|Sofia Torres|local|2026-03-19 21:10|66000|entregado|2|2|||17;Queso De Albondigas;2;27000.000000;54000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-1042|4|Ana Martinez|domicilio|2026-03-19 17:15|155000|abierto|0|0|Calle 100 #40-43||3;Sancocho de Gallina;3;25000.000000;75000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
-1043|13|Sebastian Rojas|local|2026-03-19 13:31|67000|entregado|4|4|||5;Patacones con Hogao;3;12000.000000;36000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
-1044|17|Julian Ospina|local|2026-03-19 16:45|21000|entregado|9|9|||18;Agua Mineral;1;3000.000000;3000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;
-1045|16|Natalia Cardenas|local|2026-03-19 15:16|131000|entregado|4|4|||11;Limonada Natural;2;7000.000000;14000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1046|8|Sofia Torres|local|2026-03-19 14:0|130000|entregado|1|1|||10;Tres Leches;1;10000.000000;10000.000000;~18;Agua Mineral;3;3000.000000;9000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1047|16|Natalia Cardenas|domicilio|2026-03-19 15:50|112000|entregado|0|0|Calle 30 #16-28||17;Queso De Albondigas;2;27000.000000;54000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
-1048|13|Sebastian Rojas|local|2026-03-19 19:43|60000|entregado|3|3|||18;Agua Mineral;2;3000.000000;6000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
-1049|19|Rodrigo Mendoza|local|2026-03-19 16:41|60000|cancelado|11|1|||10;Tres Leches;3;10000.000000;30000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
-1050|18|Paola Quintero|local|2026-03-20 22:45|108000|cancelado|6|6|||12;Jugo Natural;3;8000.000000;24000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1051|14|Daniela Mendoza|domicilio|2026-03-20 19:6|175000|cancelado|0|0|Calle 87 #26-95||1;Bandeja Paisa;2;32000.000000;64000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1052|16|Natalia Cardenas|domicilio|2026-03-20 22:4|84000|entregado|0|0|Calle 30 #16-28||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1053|19|Rodrigo Mendoza|domicilio|2026-03-20 19:5|101000|cancelado|0|0|Calle 97 #32-71||13;Cafe Americano;1;5000.000000;5000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
-1054|14|Daniela Mendoza|local|2026-03-20 22:5|105000|entregado|11|1|||1;Bandeja Paisa;1;32000.000000;32000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~7;Churrasco;1;38000.000000;38000.000000;
-1055|9|Andres Herrera|domicilio|2026-03-20 18:23|60000|entregado|0|0|Calle 46 #7-67||8;Ensalada Cesar;2;15000.000000;30000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
-1056|19|Rodrigo Mendoza|local|2026-03-20 22:56|143000|entregado|3|3|||7;Churrasco;1;38000.000000;38000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~7;Churrasco;1;38000.000000;38000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
-1057|8|Sofia Torres|domicilio|2026-03-20 20:47|103000|entregado|0|0|Calle 66 #21-38||11;Limonada Natural;2;7000.000000;14000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;
-1058|8|Sofia Torres|domicilio|2026-03-20 11:22|114000|cancelado|0|0|Calle 66 #21-38||13;Cafe Americano;2;5000.000000;10000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-1059|3|Juan Perez|local|2026-03-20 15:54|133000|entregado|11|1|||17;Queso De Albondigas;3;27000.000000;81000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;~7;Churrasco;1;38000.000000;38000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
-1060|14|Daniela Mendoza|local|2026-03-20 21:7|15000|entregado|3|3|||13;Cafe Americano;3;5000.000000;15000.000000;
-1061|9|Andres Herrera|domicilio|2026-03-20 11:29|266000|entregado|0|0|Calle 46 #7-67||10;Tres Leches;3;10000.000000;30000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-1062|15|Felipe Restrepo|domicilio|2026-03-20 12:14|131000|abierto|0|0|Calle 81 #46-46||17;Queso De Albondigas;3;27000.000000;81000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
-1063|20|Luisa Fernandez|local|2026-03-20 20:18|155000|abierto|9|9|||8;Ensalada Cesar;2;15000.000000;30000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-1064|6|Laura Sanchez|local|2026-03-20 18:13|127000|abierto|8|8|||8;Ensalada Cesar;3;15000.000000;45000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~18;Agua Mineral;2;3000.000000;6000.000000;
-1065|9|Andres Herrera|local|2026-03-20 21:1|128000|entregado|5|5|||17;Queso De Albondigas;2;27000.000000;54000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-1066|15|Felipe Restrepo|local|2026-03-20 15:57|80000|entregado|8|8|||6;Arroz con Pollo;2;22000.000000;44000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1067|16|Natalia Cardenas|local|2026-03-20 18:31|48000|cancelado|2|2|||11;Limonada Natural;1;7000.000000;7000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~18;Agua Mineral;3;3000.000000;9000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
-1068|12|Isabella Moreno|domicilio|2026-03-20 15:46|41000|abierto|0|0|Calle 33 #14-36||11;Limonada Natural;3;7000.000000;21000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-1069|11|Camilo Vargas|domicilio|2026-03-21 21:34|168000|entregado|0|0|Calle 11 #11-46||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-1070|3|Juan Perez|domicilio|2026-03-21 11:47|101000|entregado|0|0|Calle 62 #47-26||10;Tres Leches;1;10000.000000;10000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
-1071|14|Daniela Mendoza|local|2026-03-21 11:8|54000|entregado|1|1|||10;Tres Leches;3;10000.000000;30000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
-1072|2|Maria Garcia|local|2026-03-21 13:11|10000|entregado|10|10|||13;Cafe Americano;2;5000.000000;10000.000000;
-1073|11|Camilo Vargas|domicilio|2026-03-21 12:57|55000|entregado|0|0|Calle 11 #11-46||15;Arepa con Queso;2;12000.000000;24000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
-1074|18|Paola Quintero|local|2026-03-21 10:9|159000|entregado|1|1|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-1075|16|Natalia Cardenas|local|2026-03-21 20:58|128000|entregado|6|6|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
-1076|2|Maria Garcia|local|2026-03-21 10:58|158000|entregado|11|1|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~7;Churrasco;1;38000.000000;38000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
-1077|18|Paola Quintero|local|2026-03-21 12:7|63000|abierto|10|10|||17;Queso De Albondigas;1;27000.000000;27000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;
-1078|18|Paola Quintero|domicilio|2026-03-21 18:26|83000|entregado|0|0|Calle 26 #18-20||6;Arroz con Pollo;2;22000.000000;44000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~18;Agua Mineral;1;3000.000000;3000.000000;
-1079|19|Rodrigo Mendoza|domicilio|2026-03-21 10:43|32000|abierto|0|0|Calle 97 #32-71||1;Bandeja Paisa;1;32000.000000;32000.000000;
-1080|4|Ana Martinez|local|2026-03-21 14:7|161000|cancelado|1|1|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~17;Queso De Albondigas;2;27000.000000;54000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;
-1081|9|Andres Herrera|local|2026-03-21 15:1|30000|entregado|6|6|||10;Tres Leches;3;10000.000000;30000.000000;
-1082|2|Maria Garcia|local|2026-03-21 21:23|66000|entregado|10|10|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
-1083|8|Sofia Torres|domicilio|2026-03-21 10:46|152000|entregado|0|0|Calle 66 #21-38||4;Empanadas x3;1;8000.000000;8000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-1084|4|Ana Martinez|domicilio|2026-03-21 16:16|193000|entregado|0|0|Calle 100 #40-43||8;Ensalada Cesar;3;15000.000000;45000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1085|3|Juan Perez|domicilio|2026-03-21 15:20|212000|entregado|0|0|Calle 62 #47-26||9;Flan de Caramelo;1;9000.000000;9000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~7;Churrasco;3;38000.000000;114000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
-1086|16|Natalia Cardenas|local|2026-03-21 16:18|48000|entregado|3|3|||4;Empanadas x3;3;8000.000000;24000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
-1087|2|Maria Garcia|local|2026-03-21 11:2|134000|entregado|6|6|||7;Churrasco;1;38000.000000;38000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
-1088|13|Sebastian Rojas|domicilio|2026-03-21 17:9|9000|entregado|0|0|Calle 28 #41-99||18;Agua Mineral;3;3000.000000;9000.000000;
-1089|13|Sebastian Rojas|domicilio|2026-03-21 19:57|36000|entregado|0|0|Calle 28 #41-99||15;Arepa con Queso;3;12000.000000;36000.000000;
-1090|9|Andres Herrera|local|2026-03-22 16:10|25000|entregado|7|7|||3;Sancocho de Gallina;1;25000.000000;25000.000000;
-1091|13|Sebastian Rojas|local|2026-03-22 22:32|9000|entregado|2|2|||18;Agua Mineral;3;3000.000000;9000.000000;
-1092|10|Valentina Castro|domicilio|2026-03-22 20:40|136000|entregado|0|0|Calle 63 #50-46||10;Tres Leches;3;10000.000000;30000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
-1093|15|Felipe Restrepo|domicilio|2026-03-22 12:10|14000|cancelado|0|0|Calle 81 #46-46||11;Limonada Natural;2;7000.000000;14000.000000;
-1094|11|Camilo Vargas|domicilio|2026-03-22 20:21|119000|entregado|0|0|Calle 11 #11-46||8;Ensalada Cesar;1;15000.000000;15000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;
-1095|2|Maria Garcia|domicilio|2026-03-22 15:56|67000|cancelado|0|0|Calle 67 #37-62||8;Ensalada Cesar;1;15000.000000;15000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
-1096|13|Sebastian Rojas|domicilio|2026-03-22 17:46|282000|abierto|0|0|Calle 28 #41-99||5;Patacones con Hogao;3;12000.000000;36000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~7;Churrasco;3;38000.000000;114000.000000;
-1097|20|Luisa Fernandez|local|2026-03-22 15:55|95000|entregado|3|3|||15;Arepa con Queso;3;12000.000000;36000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
-1098|3|Juan Perez|local|2026-03-22 15:37|3000|entregado|11|1|||18;Agua Mineral;1;3000.000000;3000.000000;
-1099|12|Isabella Moreno|domicilio|2026-03-22 18:1|147000|entregado|0|0|Calle 33 #14-36||1;Bandeja Paisa;1;32000.000000;32000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
-1100|7|Diego Ramirez|domicilio|2026-03-22 20:32|98000|entregado|0|0|Calle 25 #39-91||6;Arroz con Pollo;1;22000.000000;22000.000000;~7;Churrasco;2;38000.000000;76000.000000;
-1101|19|Rodrigo Mendoza|local|2026-03-22 18:6|54000|entregado|5|5|||17;Queso De Albondigas;2;27000.000000;54000.000000;
-1102|2|Maria Garcia|local|2026-03-22 21:6|155000|entregado|5|5|||13;Cafe Americano;3;5000.000000;15000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
-1103|19|Rodrigo Mendoza|domicilio|2026-03-22 16:7|77000|abierto|0|0|Calle 97 #32-71||10;Tres Leches;1;10000.000000;10000.000000;~17;Queso De Albondigas;1;27000.000000;27000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
-1104|4|Ana Martinez|local|2026-03-22 19:40|10000|entregado|4|4|||13;Cafe Americano;2;5000.000000;10000.000000;
-1105|2|Maria Garcia|local|2026-03-22 16:34|44000|entregado|3|3|||9;Flan de Caramelo;2;9000.000000;18000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
-1106|4|Ana Martinez|local|2026-03-22 14:52|109000|entregado|9|9|||6;Arroz con Pollo;3;22000.000000;66000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
-1107|17|Julian Ospina|local|2026-03-22 15:33|8000|entregado|11|1|||12;Jugo Natural;1;8000.000000;8000.000000;
-1108|4|Ana Martinez|local|2026-03-22 17:10|20000|entregado|1|1|||10;Tres Leches;2;10000.000000;20000.000000;
-1109|16|Natalia Cardenas|local|2026-03-22 12:13|74000|entregado|9|9|||15;Arepa con Queso;3;12000.000000;36000.000000;~7;Churrasco;1;38000.000000;38000.000000;
-1110|7|Diego Ramirez|domicilio|2026-03-22 16:58|36000|entregado|0|0|Calle 25 #39-91||5;Patacones con Hogao;3;12000.000000;36000.000000;
-1111|4|Ana Martinez|local|2026-03-22 17:13|138000|entregado|9|9|||15;Arepa con Queso;1;12000.000000;12000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~17;Queso De Albondigas;3;27000.000000;81000.000000;
-1112|1|Carlos Lopez|local|2026-03-22 20:46|84000|entregado|9|9|||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
-1113|5|Pedro Rodriguez|local|2026-03-22 20:14|6000|entregado|11|1|||18;Agua Mineral;2;3000.000000;6000.000000;
-1114|10|Valentina Castro|domicilio|2026-03-23 12:8|110000|entregado|0|0|Calle 63 #50-46||1;Bandeja Paisa;3;32000.000000;96000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~18;Agua Mineral;3;3000.000000;9000.000000;
-1115|13|Sebastian Rojas|domicilio|2026-03-23 19:19|77000|abierto|0|0|Calle 28 #41-99||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
-1116|12|Isabella Moreno|domicilio|2026-03-23 17:21|89000|entregado|0|0|Calle 33 #14-36||1;Bandeja Paisa;2;32000.000000;64000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
-1117|11|Camilo Vargas|domicilio|2026-03-23 18:19|47000|entregado|0|0|Calle 11 #11-46||7;Churrasco;1;38000.000000;38000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
-1118|14|Daniela Mendoza|local|2026-03-23 11:32|65000|cancelado|10|10|||13;Cafe Americano;1;5000.000000;5000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
-1119|5|Pedro Rodriguez|local|2026-03-23 13:6|12000|entregado|1|1|||18;Agua Mineral;1;3000.000000;3000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
-1120|1|Carlos Lopez|domicilio|2026-03-23 18:52|61000|cancelado|0|0|Calle 41 #26-35||10;Tres Leches;1;10000.000000;10000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
-1121|11|Camilo Vargas|local|2026-03-23 16:33|30000|entregado|5|5|||8;Ensalada Cesar;2;15000.000000;30000.000000;
-1122|16|Natalia Cardenas|local|2026-03-23 22:44|48000|entregado|7|7|||15;Arepa con Queso;2;12000.000000;24000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
-1123|6|Laura Sanchez|domicilio|2026-03-23 19:30|73000|entregado|0|0|Calle 18 #6-27||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
-1124|16|Natalia Cardenas|local|2026-03-23 14:21|83000|cancelado|5|5|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;~18;Agua Mineral;1;3000.000000;3000.000000;
+1|13|Sebastian Rojas|local|2026-03-08 16:15|42000|entregado|7|7|||6;Arroz con Pollo;1;22000.000000;22000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;
+2|16|Natalia Cardenas|local|2026-03-08 15:43|51000|entregado|2|2|||15;Arepa con Queso;3;12000.000000;36000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
+3|18|Paola Quintero|domicilio|2026-03-08 15:17|10000|entregado|0|0|Calle 48 #24-18||13;Cafe Americano;2;5000.000000;10000.000000;
+4|3|Juan Perez|domicilio|2026-03-08 13:25|34000|entregado|0|0|Calle 87 #12-36||4;Empanadas x3;3;8000.000000;24000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+5|9|Andres Herrera|local|2026-03-08 17:49|47000|cancelado|5|5|||14;Agua Mineral;3;3000.000000;9000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+6|14|Daniela Mendoza|domicilio|2026-03-08 21:37|24000|entregado|0|0|Calle 84 #26-22||15;Arepa con Queso;2;12000.000000;24000.000000;
+7|2|Maria Garcia|local|2026-03-08 10:54|199000|entregado|4|4|||9;Flan de Caramelo;2;9000.000000;18000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~7;Churrasco;3;38000.000000;114000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;
+8|5|Pedro Rodriguez|local|2026-03-08 10:30|87000|entregado|10|10|||15;Arepa con Queso;2;12000.000000;24000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;
+9|15|Felipe Restrepo|domicilio|2026-03-08 16:41|51000|entregado|0|0|Calle 58 #1-89||4;Empanadas x3;3;8000.000000;24000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+10|10|Valentina Castro|domicilio|2026-03-08 18:56|173000|abierto|0|0|Calle 76 #30-33||6;Arroz con Pollo;3;22000.000000;66000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+11|16|Natalia Cardenas|domicilio|2026-03-08 10:43|40000|entregado|0|0|Calle 46 #12-73||1;Bandeja Paisa;1;32000.000000;32000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+12|2|Maria Garcia|local|2026-03-08 12:2|123000|entregado|4|4|||3;Sancocho de Gallina;1;25000.000000;25000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
+13|10|Valentina Castro|local|2026-03-08 13:11|218000|entregado|6|6|||7;Churrasco;3;38000.000000;114000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+14|16|Natalia Cardenas|domicilio|2026-03-08 17:50|30000|cancelado|0|0|Calle 46 #12-73||8;Ensalada Cesar;2;15000.000000;30000.000000;
+15|5|Pedro Rodriguez|domicilio|2026-03-09 12:9|23000|entregado|0|0|Calle 76 #31-55||9;Flan de Caramelo;1;9000.000000;9000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+16|12|Isabella Moreno|domicilio|2026-03-09 16:37|62000|cancelado|0|0|Calle 34 #50-34||10;Tres Leches;2;10000.000000;20000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
+17|2|Maria Garcia|domicilio|2026-03-09 21:10|44000|cancelado|0|0|Calle 65 #29-69||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
+18|1|Carlos Lopez|domicilio|2026-03-09 10:39|88000|entregado|0|0|Calle 8 #34-66||6;Arroz con Pollo;2;22000.000000;44000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
+19|9|Andres Herrera|local|2026-03-09 11:59|27000|entregado|2|2|||15;Arepa con Queso;1;12000.000000;12000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+20|3|Juan Perez|local|2026-03-09 10:54|116000|entregado|10|10|||4;Empanadas x3;1;8000.000000;8000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
+21|11|Camilo Vargas|local|2026-03-09 18:30|104000|entregado|8|8|||5;Patacones con Hogao;2;12000.000000;24000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
+22|15|Felipe Restrepo|domicilio|2026-03-09 15:55|6000|entregado|0|0|Calle 58 #1-89||14;Agua Mineral;2;3000.000000;6000.000000;
+23|20|Luisa Fernandez|local|2026-03-09 17:51|114000|cancelado|6|6|||11;Limonada Natural;2;7000.000000;14000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+24|5|Pedro Rodriguez|domicilio|2026-03-09 12:3|80000|entregado|0|0|Calle 76 #31-55||9;Flan de Caramelo;1;9000.000000;9000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
+25|11|Camilo Vargas|local|2026-03-09 15:27|74000|entregado|10|10|||14;Agua Mineral;2;3000.000000;6000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+26|6|Laura Sanchez|local|2026-03-09 16:4|36000|entregado|10|10|||5;Patacones con Hogao;3;12000.000000;36000.000000;
+27|20|Luisa Fernandez|local|2026-03-09 16:3|57000|entregado|8|8|||11;Limonada Natural;3;7000.000000;21000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+28|2|Maria Garcia|local|2026-03-09 19:16|55000|entregado|5|5|||8;Ensalada Cesar;1;15000.000000;15000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
+29|12|Isabella Moreno|domicilio|2026-03-09 14:31|62000|entregado|0|0|Calle 34 #50-34||11;Limonada Natural;2;7000.000000;14000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+30|2|Maria Garcia|local|2026-03-09 14:5|58000|abierto|4|4|||10;Tres Leches;1;10000.000000;10000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;
+31|20|Luisa Fernandez|local|2026-03-09 17:13|31000|entregado|3|3|||4;Empanadas x3;3;8000.000000;24000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+32|2|Maria Garcia|domicilio|2026-03-09 11:52|66000|cancelado|0|0|Calle 65 #29-69||6;Arroz con Pollo;3;22000.000000;66000.000000;
+33|5|Pedro Rodriguez|domicilio|2026-03-09 21:47|29000|entregado|0|0|Calle 76 #31-55||10;Tres Leches;2;10000.000000;20000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;
+34|12|Isabella Moreno|domicilio|2026-03-09 15:11|83000|entregado|0|0|Calle 34 #50-34||3;Sancocho de Gallina;3;25000.000000;75000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+35|12|Isabella Moreno|domicilio|2026-03-09 22:34|119000|entregado|0|0|Calle 34 #50-34||6;Arroz con Pollo;2;22000.000000;44000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
+36|11|Camilo Vargas|domicilio|2026-03-09 15:43|226000|entregado|0|0|Calle 54 #4-18||15;Arepa con Queso;3;12000.000000;36000.000000;~7;Churrasco;3;38000.000000;114000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+37|15|Felipe Restrepo|local|2026-03-10 10:14|20000|abierto|9|9|||8;Ensalada Cesar;1;15000.000000;15000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+38|15|Felipe Restrepo|local|2026-03-10 19:30|20000|abierto|6|6|||10;Tres Leches;2;10000.000000;20000.000000;
+39|12|Isabella Moreno|local|2026-03-10 12:14|120000|entregado|1|1|||4;Empanadas x3;1;8000.000000;8000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+40|3|Juan Perez|domicilio|2026-03-10 16:13|109000|entregado|0|0|Calle 87 #12-36||1;Bandeja Paisa;1;32000.000000;32000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+41|13|Sebastian Rojas|local|2026-03-10 18:33|18000|entregado|6|6|||9;Flan de Caramelo;2;9000.000000;18000.000000;
+42|1|Carlos Lopez|local|2026-03-10 22:33|44000|entregado|4|4|||6;Arroz con Pollo;2;22000.000000;44000.000000;
+43|11|Camilo Vargas|domicilio|2026-03-10 10:56|56000|entregado|0|0|Calle 54 #4-18||2;Ajiaco Bogotano;2;28000.000000;56000.000000;
+44|5|Pedro Rodriguez|local|2026-03-10 18:5|12000|entregado|3|3|||5;Patacones con Hogao;1;12000.000000;12000.000000;
+45|6|Laura Sanchez|local|2026-03-10 21:54|3000|entregado|1|1|||14;Agua Mineral;1;3000.000000;3000.000000;
+46|10|Valentina Castro|local|2026-03-10 17:14|87000|entregado|9|9|||11;Limonada Natural;2;7000.000000;14000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+47|1|Carlos Lopez|domicilio|2026-03-10 10:0|30000|entregado|0|0|Calle 8 #34-66||10;Tres Leches;3;10000.000000;30000.000000;
+48|8|Sofia Torres|local|2026-03-10 10:44|39000|entregado|7|7|||8;Ensalada Cesar;1;15000.000000;15000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
+49|8|Sofia Torres|domicilio|2026-03-10 11:21|51000|entregado|0|0|Calle 20 #15-58||13;Cafe Americano;2;5000.000000;10000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
+50|20|Luisa Fernandez|domicilio|2026-03-10 11:5|90000|entregado|0|0|Calle 64 #41-17||4;Empanadas x3;3;8000.000000;24000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+51|19|Rodrigo Mendoza|domicilio|2026-03-10 13:52|73000|entregado|0|0|Calle 57 #24-44||11;Limonada Natural;1;7000.000000;7000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+52|19|Rodrigo Mendoza|local|2026-03-10 22:16|44000|entregado|9|9|||5;Patacones con Hogao;3;12000.000000;36000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+53|5|Pedro Rodriguez|local|2026-03-10 14:35|24000|cancelado|1|1|||12;Jugo Natural;3;8000.000000;24000.000000;
+54|1|Carlos Lopez|domicilio|2026-03-10 11:48|80000|entregado|0|0|Calle 8 #34-66||5;Patacones con Hogao;2;12000.000000;24000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
+55|2|Maria Garcia|local|2026-03-10 19:49|84000|entregado|7|7|||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+56|1|Carlos Lopez|domicilio|2026-03-10 19:2|156000|entregado|0|0|Calle 8 #34-66||4;Empanadas x3;2;8000.000000;16000.000000;~7;Churrasco;2;38000.000000;76000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;
+57|3|Juan Perez|local|2026-03-11 10:47|15000|entregado|10|10|||9;Flan de Caramelo;1;9000.000000;9000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;
+58|13|Sebastian Rojas|local|2026-03-11 17:32|18000|entregado|7|7|||9;Flan de Caramelo;2;9000.000000;18000.000000;
+59|13|Sebastian Rojas|domicilio|2026-03-11 19:5|89000|cancelado|0|0|Calle 66 #3-34||8;Ensalada Cesar;1;15000.000000;15000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
+60|9|Andres Herrera|domicilio|2026-03-11 21:54|21000|entregado|0|0|Calle 56 #27-91||4;Empanadas x3;2;8000.000000;16000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+61|5|Pedro Rodriguez|local|2026-03-11 19:43|15000|entregado|4|4|||13;Cafe Americano;3;5000.000000;15000.000000;
+62|9|Andres Herrera|domicilio|2026-03-11 16:10|25000|entregado|0|0|Calle 56 #27-91||3;Sancocho de Gallina;1;25000.000000;25000.000000;
+63|4|Ana Martinez|local|2026-03-11 22:58|43000|entregado|7|7|||14;Agua Mineral;3;3000.000000;9000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
+64|2|Maria Garcia|domicilio|2026-03-11 19:18|95000|entregado|0|0|Calle 65 #29-69||13;Cafe Americano;1;5000.000000;5000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
+65|17|Julian Ospina|local|2026-03-11 20:6|18000|entregado|4|4|||9;Flan de Caramelo;2;9000.000000;18000.000000;
+66|3|Juan Perez|local|2026-03-11 21:18|8000|entregado|10|10|||4;Empanadas x3;1;8000.000000;8000.000000;
+67|18|Paola Quintero|domicilio|2026-03-11 22:11|59000|entregado|0|0|Calle 48 #24-18||3;Sancocho de Gallina;2;25000.000000;50000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;
+68|20|Luisa Fernandez|local|2026-03-11 13:28|47000|entregado|7|7|||6;Arroz con Pollo;2;22000.000000;44000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;
+69|5|Pedro Rodriguez|local|2026-03-11 16:31|22000|abierto|5|5|||6;Arroz con Pollo;1;22000.000000;22000.000000;
+70|16|Natalia Cardenas|domicilio|2026-03-12 17:36|138000|entregado|0|0|Calle 46 #12-73||13;Cafe Americano;2;5000.000000;10000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+71|15|Felipe Restrepo|local|2026-03-12 12:59|24000|entregado|3|3|||4;Empanadas x3;3;8000.000000;24000.000000;
+72|4|Ana Martinez|domicilio|2026-03-12 19:33|52000|entregado|0|0|Calle 32 #21-6||12;Jugo Natural;2;8000.000000;16000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+73|7|Diego Ramirez|local|2026-03-12 11:19|104000|entregado|3|3|||11;Limonada Natural;3;7000.000000;21000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
+74|14|Daniela Mendoza|local|2026-03-12 22:49|94000|entregado|7|7|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
+75|17|Julian Ospina|domicilio|2026-03-12 16:10|14000|entregado|0|0|Calle 92 #24-11||11;Limonada Natural;2;7000.000000;14000.000000;
+76|4|Ana Martinez|local|2026-03-12 15:57|71000|entregado|6|6|||15;Arepa con Queso;2;12000.000000;24000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+77|11|Camilo Vargas|local|2026-03-12 20:9|18000|entregado|2|2|||14;Agua Mineral;3;3000.000000;9000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+78|6|Laura Sanchez|local|2026-03-12 15:49|99000|entregado|5|5|||4;Empanadas x3;2;8000.000000;16000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~10;Tres Leches;2;10000.000000;20000.000000;
+79|1|Carlos Lopez|local|2026-03-12 16:14|152000|entregado|9|9|||14;Agua Mineral;1;3000.000000;3000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
+80|4|Ana Martinez|domicilio|2026-03-12 11:23|61000|cancelado|0|0|Calle 32 #21-6||12;Jugo Natural;2;8000.000000;16000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+81|1|Carlos Lopez|local|2026-03-12 15:43|27000|cancelado|7|7|||9;Flan de Caramelo;3;9000.000000;27000.000000;
+82|9|Andres Herrera|local|2026-03-12 11:17|86000|entregado|5|5|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+83|14|Daniela Mendoza|local|2026-03-12 14:18|79000|entregado|6|6|||8;Ensalada Cesar;2;15000.000000;30000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
+84|8|Sofia Torres|domicilio|2026-03-12 12:12|61000|cancelado|0|0|Calle 20 #15-58||6;Arroz con Pollo;2;22000.000000;44000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;
+85|8|Sofia Torres|domicilio|2026-03-12 22:38|84000|entregado|0|0|Calle 20 #15-58||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+86|17|Julian Ospina|domicilio|2026-03-12 17:19|166000|entregado|0|0|Calle 92 #24-11||7;Churrasco;2;38000.000000;76000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
+87|6|Laura Sanchez|domicilio|2026-03-12 21:2|77000|cancelado|0|0|Calle 93 #12-99||9;Flan de Caramelo;1;9000.000000;9000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+88|3|Juan Perez|local|2026-03-12 18:37|24000|entregado|4|4|||4;Empanadas x3;3;8000.000000;24000.000000;
+89|8|Sofia Torres|domicilio|2026-03-12 18:58|105000|entregado|0|0|Calle 20 #15-58||3;Sancocho de Gallina;1;25000.000000;25000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
+90|8|Sofia Torres|local|2026-03-12 14:13|159000|cancelado|7|7|||7;Churrasco;3;38000.000000;114000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+91|12|Isabella Moreno|local|2026-03-12 11:43|133000|abierto|3|3|||15;Arepa con Queso;3;12000.000000;36000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;~7;Churrasco;2;38000.000000;76000.000000;
+92|4|Ana Martinez|domicilio|2026-03-13 17:54|10000|entregado|0|0|Calle 32 #21-6||10;Tres Leches;1;10000.000000;10000.000000;
+93|16|Natalia Cardenas|local|2026-03-13 18:43|62000|entregado|10|10|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;
+94|15|Felipe Restrepo|local|2026-03-13 15:37|33000|entregado|2|2|||5;Patacones con Hogao;2;12000.000000;24000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+95|3|Juan Perez|domicilio|2026-03-13 15:26|25000|entregado|0|0|Calle 87 #12-36||3;Sancocho de Gallina;1;25000.000000;25000.000000;
+96|1|Carlos Lopez|local|2026-03-13 15:53|88000|entregado|7|7|||4;Empanadas x3;3;8000.000000;24000.000000;~7;Churrasco;1;38000.000000;38000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+97|8|Sofia Torres|local|2026-03-13 14:59|132000|entregado|8|8|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
+98|6|Laura Sanchez|local|2026-03-13 21:27|197000|entregado|6|6|||3;Sancocho de Gallina;1;25000.000000;25000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~7;Churrasco;3;38000.000000;114000.000000;
+99|6|Laura Sanchez|domicilio|2026-03-13 16:19|148000|entregado|0|0|Calle 93 #12-99||12;Jugo Natural;2;8000.000000;16000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~7;Churrasco;2;38000.000000;76000.000000;
+100|20|Luisa Fernandez|local|2026-03-13 18:57|20000|entregado|9|9|||10;Tres Leches;2;10000.000000;20000.000000;
+101|5|Pedro Rodriguez|local|2026-03-13 11:14|216000|entregado|9|9|||2;Ajiaco Bogotano;3;28000.000000;84000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~7;Churrasco;3;38000.000000;114000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+102|1|Carlos Lopez|local|2026-03-13 14:39|50000|entregado|3|3|||3;Sancocho de Gallina;2;25000.000000;50000.000000;
+103|15|Felipe Restrepo|local|2026-03-13 12:22|92000|entregado|1|1|||4;Empanadas x3;1;8000.000000;8000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+104|13|Sebastian Rojas|domicilio|2026-03-14 22:45|57000|entregado|0|0|Calle 66 #3-34||14;Agua Mineral;3;3000.000000;9000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~10;Tres Leches;2;10000.000000;20000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
+105|19|Rodrigo Mendoza|local|2026-03-14 10:13|94000|entregado|10|10|||10;Tres Leches;3;10000.000000;30000.000000;~7;Churrasco;1;38000.000000;38000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
+106|7|Diego Ramirez|local|2026-03-14 18:21|32000|entregado|7|7|||1;Bandeja Paisa;1;32000.000000;32000.000000;
+107|8|Sofia Torres|local|2026-03-14 13:15|22000|entregado|3|3|||14;Agua Mineral;2;3000.000000;6000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;
+108|11|Camilo Vargas|local|2026-03-14 19:12|52000|entregado|6|6|||11;Limonada Natural;1;7000.000000;7000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+109|4|Ana Martinez|domicilio|2026-03-14 14:56|38000|abierto|0|0|Calle 32 #21-6||14;Agua Mineral;1;3000.000000;3000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+110|12|Isabella Moreno|domicilio|2026-03-14 10:52|173000|cancelado|0|0|Calle 34 #50-34||3;Sancocho de Gallina;3;25000.000000;75000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+111|19|Rodrigo Mendoza|local|2026-03-14 21:6|175000|entregado|6|6|||8;Ensalada Cesar;3;15000.000000;45000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~7;Churrasco;2;38000.000000;76000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+112|12|Isabella Moreno|domicilio|2026-03-14 18:51|121000|entregado|0|0|Calle 34 #50-34||9;Flan de Caramelo;2;9000.000000;18000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;
+113|9|Andres Herrera|domicilio|2026-03-14 18:30|41000|entregado|0|0|Calle 56 #27-91||11;Limonada Natural;3;7000.000000;21000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+114|18|Paola Quintero|local|2026-03-14 21:42|141000|entregado|5|5|||10;Tres Leches;2;10000.000000;20000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~7;Churrasco;3;38000.000000;114000.000000;
+115|17|Julian Ospina|domicilio|2026-03-14 11:18|112000|entregado|0|0|Calle 92 #24-11||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+116|8|Sofia Torres|local|2026-03-14 13:55|74000|entregado|10|10|||14;Agua Mineral;3;3000.000000;9000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
+117|13|Sebastian Rojas|domicilio|2026-03-14 14:18|47000|entregado|0|0|Calle 66 #3-34||7;Churrasco;1;38000.000000;38000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+118|12|Isabella Moreno|local|2026-03-14 18:8|50000|entregado|5|5|||9;Flan de Caramelo;1;9000.000000;9000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+119|11|Camilo Vargas|local|2026-03-14 13:49|150000|entregado|6|6|||2;Ajiaco Bogotano;2;28000.000000;56000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
+120|15|Felipe Restrepo|local|2026-03-14 21:9|21000|entregado|6|6|||11;Limonada Natural;3;7000.000000;21000.000000;
+121|14|Daniela Mendoza|domicilio|2026-03-14 11:38|71000|entregado|0|0|Calle 84 #26-22||8;Ensalada Cesar;1;15000.000000;15000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;
+122|4|Ana Martinez|local|2026-03-15 12:38|42000|entregado|9|9|||4;Empanadas x3;1;8000.000000;8000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;
+123|9|Andres Herrera|domicilio|2026-03-15 12:20|148000|entregado|0|0|Calle 56 #27-91||1;Bandeja Paisa;3;32000.000000;96000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
+124|19|Rodrigo Mendoza|local|2026-03-15 12:35|179000|abierto|3|3|||7;Churrasco;2;38000.000000;76000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+125|7|Diego Ramirez|domicilio|2026-03-15 12:10|5000|cancelado|0|0|Calle 24 #15-75||13;Cafe Americano;1;5000.000000;5000.000000;
+126|6|Laura Sanchez|local|2026-03-15 17:34|58000|entregado|3|3|||7;Churrasco;1;38000.000000;38000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
+127|4|Ana Martinez|local|2026-03-15 17:43|30000|entregado|9|9|||14;Agua Mineral;1;3000.000000;3000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
+128|20|Luisa Fernandez|domicilio|2026-03-15 17:0|117000|entregado|0|0|Calle 64 #41-17||3;Sancocho de Gallina;3;25000.000000;75000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
+129|8|Sofia Torres|domicilio|2026-03-15 20:55|34000|entregado|0|0|Calle 20 #15-58||10;Tres Leches;2;10000.000000;20000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+130|5|Pedro Rodriguez|domicilio|2026-03-15 16:25|60000|entregado|0|0|Calle 76 #31-55||8;Ensalada Cesar;2;15000.000000;30000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+131|16|Natalia Cardenas|local|2026-03-15 18:56|81000|entregado|3|3|||6;Arroz con Pollo;2;22000.000000;44000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+132|1|Carlos Lopez|local|2026-03-15 12:2|30000|cancelado|1|1|||8;Ensalada Cesar;2;15000.000000;30000.000000;
+133|7|Diego Ramirez|local|2026-03-15 22:55|81000|cancelado|3|3|||10;Tres Leches;2;10000.000000;20000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
+134|4|Ana Martinez|domicilio|2026-03-15 10:48|152000|entregado|0|0|Calle 32 #21-6||3;Sancocho de Gallina;3;25000.000000;75000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+135|19|Rodrigo Mendoza|local|2026-03-15 19:7|142000|entregado|9|9|||12;Jugo Natural;3;8000.000000;24000.000000;~7;Churrasco;1;38000.000000;38000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+136|14|Daniela Mendoza|local|2026-03-15 11:41|74000|entregado|3|3|||8;Ensalada Cesar;3;15000.000000;45000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;
+137|6|Laura Sanchez|local|2026-03-16 16:21|52000|entregado|4|4|||11;Limonada Natural;1;7000.000000;7000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+138|13|Sebastian Rojas|local|2026-03-16 12:54|105000|abierto|6|6|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
+139|3|Juan Perez|local|2026-03-16 22:44|149000|entregado|7|7|||8;Ensalada Cesar;3;15000.000000;45000.000000;~7;Churrasco;1;38000.000000;38000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+140|2|Maria Garcia|local|2026-03-16 17:28|66000|entregado|10|10|||12;Jugo Natural;1;8000.000000;8000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+141|17|Julian Ospina|local|2026-03-16 14:13|160000|entregado|1|1|||7;Churrasco;2;38000.000000;76000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+142|2|Maria Garcia|local|2026-03-16 22:23|32000|cancelado|4|4|||6;Arroz con Pollo;1;22000.000000;22000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+143|17|Julian Ospina|local|2026-03-16 16:34|133000|entregado|3|3|||3;Sancocho de Gallina;1;25000.000000;25000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~7;Churrasco;2;38000.000000;76000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
+144|18|Paola Quintero|local|2026-03-16 17:38|159000|entregado|2|2|||13;Cafe Americano;3;5000.000000;15000.000000;~7;Churrasco;3;38000.000000;114000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+145|5|Pedro Rodriguez|local|2026-03-16 15:51|31000|entregado|5|5|||4;Empanadas x3;2;8000.000000;16000.000000;~8;Ensalada Cesar;1;15000.000000;15000.000000;
+146|10|Valentina Castro|domicilio|2026-03-16 14:47|90000|entregado|0|0|Calle 76 #30-33||10;Tres Leches;3;10000.000000;30000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+147|20|Luisa Fernandez|local|2026-03-16 22:14|3000|entregado|5|5|||14;Agua Mineral;1;3000.000000;3000.000000;
+148|20|Luisa Fernandez|local|2026-03-16 19:23|54000|entregado|4|4|||4;Empanadas x3;2;8000.000000;16000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+149|1|Carlos Lopez|domicilio|2026-03-16 16:9|36000|entregado|0|0|Calle 8 #34-66||5;Patacones con Hogao;3;12000.000000;36000.000000;
+150|19|Rodrigo Mendoza|local|2026-03-16 18:42|143000|cancelado|1|1|||8;Ensalada Cesar;1;15000.000000;15000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+151|10|Valentina Castro|domicilio|2026-03-16 14:29|47000|entregado|0|0|Calle 76 #30-33||13;Cafe Americano;3;5000.000000;15000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;
+152|6|Laura Sanchez|local|2026-03-17 16:25|208000|entregado|8|8|||1;Bandeja Paisa;2;32000.000000;64000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~7;Churrasco;3;38000.000000;114000.000000;
+153|2|Maria Garcia|domicilio|2026-03-17 13:54|238000|entregado|0|0|Calle 65 #29-69||7;Churrasco;3;38000.000000;114000.000000;~7;Churrasco;3;38000.000000;114000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+154|5|Pedro Rodriguez|local|2026-03-17 17:45|42000|cancelado|3|3|||10;Tres Leches;3;10000.000000;30000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
+155|16|Natalia Cardenas|local|2026-03-17 21:36|37000|cancelado|6|6|||4;Empanadas x3;2;8000.000000;16000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+156|8|Sofia Torres|local|2026-03-17 18:47|56000|abierto|6|6|||14;Agua Mineral;1;3000.000000;3000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+157|4|Ana Martinez|local|2026-03-17 21:52|128000|cancelado|1|1|||14;Agua Mineral;2;3000.000000;6000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
+158|11|Camilo Vargas|local|2026-03-17 10:24|37000|entregado|5|5|||15;Arepa con Queso;1;12000.000000;12000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+159|9|Andres Herrera|domicilio|2026-03-17 15:27|152000|entregado|0|0|Calle 56 #27-91||12;Jugo Natural;2;8000.000000;16000.000000;~7;Churrasco;3;38000.000000;114000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+160|6|Laura Sanchez|local|2026-03-17 19:41|75000|entregado|1|1|||3;Sancocho de Gallina;3;25000.000000;75000.000000;
+161|6|Laura Sanchez|domicilio|2026-03-17 22:17|20000|entregado|0|0|Calle 93 #12-99||8;Ensalada Cesar;1;15000.000000;15000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+162|14|Daniela Mendoza|local|2026-03-17 12:1|75000|entregado|2|2|||3;Sancocho de Gallina;3;25000.000000;75000.000000;
+163|14|Daniela Mendoza|local|2026-03-17 18:2|144000|entregado|4|4|||14;Agua Mineral;2;3000.000000;6000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;
+164|2|Maria Garcia|local|2026-03-17 17:19|24000|entregado|9|9|||5;Patacones con Hogao;2;12000.000000;24000.000000;
+165|6|Laura Sanchez|domicilio|2026-03-17 16:34|51000|abierto|0|0|Calle 93 #12-99||10;Tres Leches;3;10000.000000;30000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+166|6|Laura Sanchez|local|2026-03-17 18:48|164000|entregado|1|1|||7;Churrasco;3;38000.000000;114000.000000;~15;Arepa con Queso;2;12000.000000;24000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+167|13|Sebastian Rojas|domicilio|2026-03-17 11:16|8000|entregado|0|0|Calle 66 #3-34||4;Empanadas x3;1;8000.000000;8000.000000;
+168|7|Diego Ramirez|domicilio|2026-03-17 19:30|66000|entregado|0|0|Calle 24 #15-75||10;Tres Leches;3;10000.000000;30000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
+169|20|Luisa Fernandez|domicilio|2026-03-17 20:12|176000|entregado|0|0|Calle 64 #41-17||1;Bandeja Paisa;2;32000.000000;64000.000000;~7;Churrasco;1;38000.000000;38000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;
+170|13|Sebastian Rojas|local|2026-03-17 16:18|36000|entregado|6|6|||5;Patacones con Hogao;3;12000.000000;36000.000000;
+171|19|Rodrigo Mendoza|local|2026-03-17 11:19|52000|entregado|8|8|||7;Churrasco;1;38000.000000;38000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+172|7|Diego Ramirez|local|2026-03-17 10:56|98000|entregado|10|10|||2;Ajiaco Bogotano;3;28000.000000;84000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+173|20|Luisa Fernandez|domicilio|2026-03-17 15:27|19000|cancelado|0|0|Calle 64 #41-17||9;Flan de Caramelo;1;9000.000000;9000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+174|14|Daniela Mendoza|local|2026-03-17 12:42|178000|entregado|9|9|||15;Arepa con Queso;3;12000.000000;36000.000000;~7;Churrasco;3;38000.000000;114000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+175|17|Julian Ospina|local|2026-03-17 20:38|159000|entregado|10|10|||8;Ensalada Cesar;2;15000.000000;30000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
+176|13|Sebastian Rojas|domicilio|2026-03-17 21:1|52000|entregado|0|0|Calle 66 #3-34||2;Ajiaco Bogotano;1;28000.000000;28000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
+177|12|Isabella Moreno|domicilio|2026-03-18 11:1|135000|entregado|0|0|Calle 34 #50-34||1;Bandeja Paisa;1;32000.000000;32000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~7;Churrasco;2;38000.000000;76000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
+178|10|Valentina Castro|local|2026-03-18 15:33|60000|entregado|5|5|||10;Tres Leches;2;10000.000000;20000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+179|15|Felipe Restrepo|local|2026-03-18 15:14|108000|entregado|1|1|||10;Tres Leches;1;10000.000000;10000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
+180|8|Sofia Torres|domicilio|2026-03-18 16:14|73000|entregado|0|0|Calle 20 #15-58||1;Bandeja Paisa;2;32000.000000;64000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;
+181|7|Diego Ramirez|domicilio|2026-03-18 22:6|24000|entregado|0|0|Calle 24 #15-75||5;Patacones con Hogao;2;12000.000000;24000.000000;
+182|1|Carlos Lopez|local|2026-03-18 12:12|70000|entregado|7|7|||8;Ensalada Cesar;1;15000.000000;15000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+183|15|Felipe Restrepo|domicilio|2026-03-18 20:28|111000|entregado|0|0|Calle 58 #1-89||8;Ensalada Cesar;2;15000.000000;30000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+184|6|Laura Sanchez|domicilio|2026-03-18 18:59|93000|entregado|0|0|Calle 93 #12-99||4;Empanadas x3;1;8000.000000;8000.000000;~7;Churrasco;2;38000.000000;76000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;
+185|8|Sofia Torres|domicilio|2026-03-18 10:37|200000|entregado|0|0|Calle 20 #15-58||10;Tres Leches;1;10000.000000;10000.000000;~7;Churrasco;2;38000.000000;76000.000000;~7;Churrasco;3;38000.000000;114000.000000;
+186|4|Ana Martinez|domicilio|2026-03-18 13:57|30000|abierto|0|0|Calle 32 #21-6||14;Agua Mineral;3;3000.000000;9000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~13;Cafe Americano;3;5000.000000;15000.000000;
+187|4|Ana Martinez|local|2026-03-18 16:9|10000|entregado|5|5|||13;Cafe Americano;2;5000.000000;10000.000000;
+188|5|Pedro Rodriguez|local|2026-03-18 17:55|152000|cancelado|1|1|||7;Churrasco;3;38000.000000;114000.000000;~12;Jugo Natural;2;8000.000000;16000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+189|10|Valentina Castro|domicilio|2026-03-18 18:14|58000|entregado|0|0|Calle 76 #30-33||12;Jugo Natural;1;8000.000000;8000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+190|7|Diego Ramirez|domicilio|2026-03-18 21:43|82000|entregado|0|0|Calle 24 #15-75||14;Agua Mineral;1;3000.000000;3000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~5;Patacones con Hogao;3;12000.000000;36000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+191|4|Ana Martinez|local|2026-03-18 14:32|24000|entregado|6|6|||12;Jugo Natural;3;8000.000000;24000.000000;
+192|3|Juan Perez|domicilio|2026-03-18 20:53|84000|entregado|0|0|Calle 87 #12-36||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+193|14|Daniela Mendoza|domicilio|2026-03-18 14:9|84000|entregado|0|0|Calle 84 #26-22||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+194|7|Diego Ramirez|local|2026-03-18 15:13|38000|cancelado|7|7|||10;Tres Leches;1;10000.000000;10000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+195|14|Daniela Mendoza|local|2026-03-18 10:9|123000|entregado|8|8|||11;Limonada Natural;3;7000.000000;21000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~7;Churrasco;2;38000.000000;76000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;
+196|10|Valentina Castro|local|2026-03-18 15:1|15000|entregado|10|10|||13;Cafe Americano;3;5000.000000;15000.000000;
+197|9|Andres Herrera|local|2026-03-18 16:32|172000|entregado|3|3|||6;Arroz con Pollo;2;22000.000000;44000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+198|6|Laura Sanchez|domicilio|2026-03-19 20:32|144000|entregado|0|0|Calle 93 #12-99||14;Agua Mineral;1;3000.000000;3000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
+199|9|Andres Herrera|local|2026-03-19 21:1|96000|cancelado|2|2|||1;Bandeja Paisa;3;32000.000000;96000.000000;
+200|10|Valentina Castro|local|2026-03-19 16:51|42000|entregado|10|10|||15;Arepa con Queso;1;12000.000000;12000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+201|3|Juan Perez|local|2026-03-19 10:9|106000|entregado|1|1|||4;Empanadas x3;3;8000.000000;24000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;
+202|12|Isabella Moreno|local|2026-03-19 10:22|14000|cancelado|10|10|||11;Limonada Natural;2;7000.000000;14000.000000;
+203|1|Carlos Lopez|domicilio|2026-03-19 17:58|126000|entregado|0|0|Calle 8 #34-66||7;Churrasco;1;38000.000000;38000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~10;Tres Leches;3;10000.000000;30000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+204|8|Sofia Torres|domicilio|2026-03-19 15:52|158000|entregado|0|0|Calle 20 #15-58||1;Bandeja Paisa;1;32000.000000;32000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~7;Churrasco;2;38000.000000;76000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;
+205|11|Camilo Vargas|local|2026-03-19 12:32|32000|entregado|2|2|||11;Limonada Natural;2;7000.000000;14000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;
+206|6|Laura Sanchez|local|2026-03-19 17:4|16000|entregado|9|9|||4;Empanadas x3;2;8000.000000;16000.000000;
+207|14|Daniela Mendoza|domicilio|2026-03-19 13:12|40000|entregado|0|0|Calle 84 #26-22||13;Cafe Americano;2;5000.000000;10000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+208|11|Camilo Vargas|local|2026-03-19 16:35|105000|entregado|6|6|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+209|19|Rodrigo Mendoza|local|2026-03-19 15:18|80000|entregado|1|1|||15;Arepa con Queso;3;12000.000000;36000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
+210|7|Diego Ramirez|domicilio|2026-03-20 19:52|132000|entregado|0|0|Calle 24 #15-75||15;Arepa con Queso;3;12000.000000;36000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
+211|10|Valentina Castro|local|2026-03-20 17:17|32000|entregado|9|9|||1;Bandeja Paisa;1;32000.000000;32000.000000;
+212|18|Paola Quintero|local|2026-03-20 10:51|64000|abierto|8|8|||1;Bandeja Paisa;2;32000.000000;64000.000000;
+213|16|Natalia Cardenas|local|2026-03-20 20:2|168000|entregado|1|1|||3;Sancocho de Gallina;2;25000.000000;50000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;~7;Churrasco;2;38000.000000;76000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+214|5|Pedro Rodriguez|local|2026-03-20 22:49|37000|entregado|7|7|||9;Flan de Caramelo;1;9000.000000;9000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+215|17|Julian Ospina|local|2026-03-20 11:52|75000|entregado|8|8|||3;Sancocho de Gallina;3;25000.000000;75000.000000;
+216|7|Diego Ramirez|domicilio|2026-03-20 17:18|14000|entregado|0|0|Calle 24 #15-75||11;Limonada Natural;2;7000.000000;14000.000000;
+217|4|Ana Martinez|local|2026-03-20 17:56|49000|entregado|7|7|||13;Cafe Americano;2;5000.000000;10000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
+218|14|Daniela Mendoza|local|2026-03-20 21:26|160000|abierto|7|7|||1;Bandeja Paisa;2;32000.000000;64000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+219|3|Juan Perez|domicilio|2026-03-20 15:55|69000|entregado|0|0|Calle 87 #12-36||8;Ensalada Cesar;1;15000.000000;15000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
+220|18|Paola Quintero|domicilio|2026-03-20 14:22|7000|entregado|0|0|Calle 48 #24-18||11;Limonada Natural;1;7000.000000;7000.000000;
+221|5|Pedro Rodriguez|domicilio|2026-03-20 16:41|45000|entregado|0|0|Calle 76 #31-55||8;Ensalada Cesar;1;15000.000000;15000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+222|19|Rodrigo Mendoza|local|2026-03-20 13:54|159000|entregado|5|5|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+223|7|Diego Ramirez|domicilio|2026-03-20 15:13|52000|entregado|0|0|Calle 24 #15-75||11;Limonada Natural;1;7000.000000;7000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+224|13|Sebastian Rojas|local|2026-03-20 17:35|25000|entregado|8|8|||3;Sancocho de Gallina;1;25000.000000;25000.000000;
+225|9|Andres Herrera|local|2026-03-20 17:31|126000|entregado|9|9|||12;Jugo Natural;1;8000.000000;8000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
+226|8|Sofia Torres|local|2026-03-20 11:16|115000|entregado|2|2|||10;Tres Leches;1;10000.000000;10000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;
+227|20|Luisa Fernandez|domicilio|2026-03-21 14:3|66000|entregado|0|0|Calle 64 #41-17||10;Tres Leches;2;10000.000000;20000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~12;Jugo Natural;3;8000.000000;24000.000000;
+228|3|Juan Perez|domicilio|2026-03-21 22:14|54000|entregado|0|0|Calle 87 #12-36||8;Ensalada Cesar;3;15000.000000;45000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;
+229|1|Carlos Lopez|local|2026-03-21 10:44|195000|entregado|9|9|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~2;Ajiaco Bogotano;2;28000.000000;56000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;
+230|8|Sofia Torres|domicilio|2026-03-21 20:1|100000|cancelado|0|0|Calle 20 #15-58||14;Agua Mineral;2;3000.000000;6000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~2;Ajiaco Bogotano;1;28000.000000;28000.000000;
+231|11|Camilo Vargas|domicilio|2026-03-21 18:3|5000|entregado|0|0|Calle 54 #4-18||13;Cafe Americano;1;5000.000000;5000.000000;
+232|9|Andres Herrera|local|2026-03-21 21:55|61000|entregado|8|8|||12;Jugo Natural;2;8000.000000;16000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;
+233|16|Natalia Cardenas|local|2026-03-21 10:18|3000|entregado|3|3|||14;Agua Mineral;1;3000.000000;3000.000000;
+234|15|Felipe Restrepo|local|2026-03-21 10:0|36000|entregado|4|4|||5;Patacones con Hogao;3;12000.000000;36000.000000;
+235|5|Pedro Rodriguez|local|2026-03-21 17:24|123000|entregado|1|1|||3;Sancocho de Gallina;3;25000.000000;75000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~9;Flan de Caramelo;2;9000.000000;18000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+236|10|Valentina Castro|local|2026-03-21 12:37|164000|entregado|6|6|||6;Arroz con Pollo;3;22000.000000;66000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;
+237|8|Sofia Torres|local|2026-03-21 20:49|180000|entregado|2|2|||7;Churrasco;3;38000.000000;114000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+238|4|Ana Martinez|local|2026-03-21 19:27|90000|cancelado|10|10|||11;Limonada Natural;3;7000.000000;21000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;~3;Sancocho de Gallina;1;25000.000000;25000.000000;
+239|15|Felipe Restrepo|local|2026-03-21 22:24|39000|entregado|5|5|||12;Jugo Natural;3;8000.000000;24000.000000;~14;Agua Mineral;2;3000.000000;6000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+240|12|Isabella Moreno|local|2026-03-21 21:4|20000|cancelado|1|1|||10;Tres Leches;1;10000.000000;10000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+241|8|Sofia Torres|local|2026-03-21 13:22|43000|entregado|6|6|||6;Arroz con Pollo;1;22000.000000;22000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+242|19|Rodrigo Mendoza|local|2026-03-21 18:25|36000|entregado|4|4|||5;Patacones con Hogao;3;12000.000000;36000.000000;
+243|7|Diego Ramirez|local|2026-03-21 15:23|22000|entregado|5|5|||11;Limonada Natural;2;7000.000000;14000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+244|15|Felipe Restrepo|local|2026-03-21 20:49|63000|abierto|3|3|||11;Limonada Natural;3;7000.000000;21000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
+245|9|Andres Herrera|local|2026-03-21 22:54|25000|entregado|9|9|||3;Sancocho de Gallina;1;25000.000000;25000.000000;
+246|15|Felipe Restrepo|local|2026-03-21 16:49|45000|entregado|4|4|||12;Jugo Natural;3;8000.000000;24000.000000;~11;Limonada Natural;3;7000.000000;21000.000000;
+247|9|Andres Herrera|domicilio|2026-03-22 22:31|61000|entregado|0|0|Calle 56 #27-91||8;Ensalada Cesar;3;15000.000000;45000.000000;~11;Limonada Natural;1;7000.000000;7000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+248|19|Rodrigo Mendoza|local|2026-03-22 13:26|92000|entregado|6|6|||6;Arroz con Pollo;2;22000.000000;44000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+249|1|Carlos Lopez|domicilio|2026-03-22 10:51|51000|entregado|0|0|Calle 8 #34-66||15;Arepa con Queso;1;12000.000000;12000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;
+250|12|Isabella Moreno|domicilio|2026-03-22 13:48|206000|entregado|0|0|Calle 34 #50-34||2;Ajiaco Bogotano;3;28000.000000;84000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;~6;Arroz con Pollo;2;22000.000000;44000.000000;
+251|17|Julian Ospina|domicilio|2026-03-22 18:43|215000|entregado|0|0|Calle 92 #24-11||1;Bandeja Paisa;1;32000.000000;32000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~15;Arepa con Queso;1;12000.000000;12000.000000;
+252|13|Sebastian Rojas|local|2026-03-22 10:30|49000|entregado|4|4|||13;Cafe Americano;1;5000.000000;5000.000000;~13;Cafe Americano;2;5000.000000;10000.000000;~10;Tres Leches;1;10000.000000;10000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
+253|4|Ana Martinez|local|2026-03-22 12:0|16000|entregado|2|2|||4;Empanadas x3;2;8000.000000;16000.000000;
+254|11|Camilo Vargas|local|2026-03-22 17:12|25000|entregado|10|10|||13;Cafe Americano;2;5000.000000;10000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
+255|5|Pedro Rodriguez|local|2026-03-22 12:11|18000|entregado|2|2|||9;Flan de Caramelo;2;9000.000000;18000.000000;
+256|19|Rodrigo Mendoza|domicilio|2026-03-22 10:26|28000|entregado|0|0|Calle 57 #24-44||14;Agua Mineral;2;3000.000000;6000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;
+257|3|Juan Perez|domicilio|2026-03-22 11:17|38000|entregado|0|0|Calle 87 #12-36||8;Ensalada Cesar;2;15000.000000;30000.000000;~4;Empanadas x3;1;8000.000000;8000.000000;
+258|10|Valentina Castro|domicilio|2026-03-22 19:23|74000|entregado|0|0|Calle 76 #30-33||10;Tres Leches;1;10000.000000;10000.000000;~1;Bandeja Paisa;2;32000.000000;64000.000000;
+259|9|Andres Herrera|domicilio|2026-03-22 12:34|134000|entregado|0|0|Calle 56 #27-91||1;Bandeja Paisa;3;32000.000000;96000.000000;~11;Limonada Natural;2;7000.000000;14000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
+260|4|Ana Martinez|local|2026-03-22 19:1|98000|entregado|4|4|||13;Cafe Americano;1;5000.000000;5000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~10;Tres Leches;3;10000.000000;30000.000000;
+261|4|Ana Martinez|domicilio|2026-03-22 17:46|91000|entregado|0|0|Calle 32 #21-6||3;Sancocho de Gallina;1;25000.000000;25000.000000;~6;Arroz con Pollo;3;22000.000000;66000.000000;
+262|17|Julian Ospina|local|2026-03-22 13:22|65000|entregado|4|4|||13;Cafe Americano;3;5000.000000;15000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+263|14|Daniela Mendoza|local|2026-03-22 18:21|73000|entregado|7|7|||13;Cafe Americano;2;5000.000000;10000.000000;~8;Ensalada Cesar;2;15000.000000;30000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~4;Empanadas x3;3;8000.000000;24000.000000;
+264|7|Diego Ramirez|local|2026-03-22 14:47|125000|entregado|2|2|||9;Flan de Caramelo;2;9000.000000;18000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~6;Arroz con Pollo;1;22000.000000;22000.000000;~10;Tres Leches;1;10000.000000;10000.000000;
+265|5|Pedro Rodriguez|local|2026-03-22 15:36|137000|entregado|8|8|||5;Patacones con Hogao;2;12000.000000;24000.000000;~3;Sancocho de Gallina;3;25000.000000;75000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+266|15|Felipe Restrepo|local|2026-03-22 13:10|71000|entregado|1|1|||11;Limonada Natural;1;7000.000000;7000.000000;~1;Bandeja Paisa;1;32000.000000;32000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;~12;Jugo Natural;1;8000.000000;8000.000000;
+267|10|Valentina Castro|domicilio|2026-03-23 12:19|117000|abierto|0|0|Calle 76 #30-33||14;Agua Mineral;1;3000.000000;3000.000000;~7;Churrasco;3;38000.000000;114000.000000;
+268|4|Ana Martinez|local|2026-03-23 19:29|254000|entregado|2|2|||6;Arroz con Pollo;3;22000.000000;66000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~7;Churrasco;2;38000.000000;76000.000000;~1;Bandeja Paisa;3;32000.000000;96000.000000;
+269|13|Sebastian Rojas|domicilio|2026-03-23 19:20|32000|entregado|0|0|Calle 66 #3-34||1;Bandeja Paisa;1;32000.000000;32000.000000;
+270|7|Diego Ramirez|local|2026-03-23 21:1|84000|entregado|7|7|||2;Ajiaco Bogotano;3;28000.000000;84000.000000;
+271|2|Maria Garcia|domicilio|2026-03-23 19:26|36000|entregado|0|0|Calle 65 #29-69||5;Patacones con Hogao;3;12000.000000;36000.000000;
+272|6|Laura Sanchez|domicilio|2026-03-23 17:27|8000|cancelado|0|0|Calle 93 #12-99||14;Agua Mineral;1;3000.000000;3000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+273|4|Ana Martinez|local|2026-03-23 15:51|21000|entregado|7|7|||11;Limonada Natural;3;7000.000000;21000.000000;
+274|1|Carlos Lopez|domicilio|2026-03-23 13:0|59000|entregado|0|0|Calle 8 #34-66||10;Tres Leches;2;10000.000000;20000.000000;~14;Agua Mineral;1;3000.000000;3000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~5;Patacones con Hogao;2;12000.000000;24000.000000;
+275|7|Diego Ramirez|domicilio|2026-03-23 11:31|35000|entregado|0|0|Calle 24 #15-75||8;Ensalada Cesar;2;15000.000000;30000.000000;~13;Cafe Americano;1;5000.000000;5000.000000;
+276|13|Sebastian Rojas|domicilio|2026-03-23 18:55|14000|entregado|0|0|Calle 66 #3-34||11;Limonada Natural;2;7000.000000;14000.000000;
+277|12|Isabella Moreno|local|2026-03-23 14:38|95000|abierto|2|2|||15;Arepa con Queso;3;12000.000000;36000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;
+278|9|Andres Herrera|local|2026-03-23 17:7|35000|entregado|9|9|||12;Jugo Natural;1;8000.000000;8000.000000;~9;Flan de Caramelo;3;9000.000000;27000.000000;
+279|5|Pedro Rodriguez|domicilio|2026-03-23 15:53|48000|entregado|0|0|Calle 76 #31-55||4;Empanadas x3;1;8000.000000;8000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;~4;Empanadas x3;2;8000.000000;16000.000000;~5;Patacones con Hogao;1;12000.000000;12000.000000;
+280|12|Isabella Moreno|local|2026-03-23 12:38|186000|entregado|1|1|||15;Arepa con Queso;2;12000.000000;24000.000000;~3;Sancocho de Gallina;2;25000.000000;50000.000000;~15;Arepa con Queso;3;12000.000000;36000.000000;~7;Churrasco;2;38000.000000;76000.000000;
+281|10|Valentina Castro|local|2026-03-23 21:21|50000|entregado|8|8|||3;Sancocho de Gallina;2;25000.000000;50000.000000;
+282|17|Julian Ospina|local|2026-03-23 14:54|12000|entregado|4|4|||5;Patacones con Hogao;1;12000.000000;12000.000000;
+283|15|Felipe Restrepo|local|2026-03-23 21:47|69000|entregado|8|8|||6;Arroz con Pollo;1;22000.000000;22000.000000;~9;Flan de Caramelo;1;9000.000000;9000.000000;~7;Churrasco;1;38000.000000;38000.000000;
+284|6|Laura Sanchez|domicilio|2026-03-23 14:3|20000|entregado|0|0|Calle 93 #12-99||10;Tres Leches;2;10000.000000;20000.000000;
+285|2|Maria Garcia|local|2026-03-23 12:12|154000|entregado|5|5|||12;Jugo Natural;2;8000.000000;16000.000000;~14;Agua Mineral;3;3000.000000;9000.000000;~8;Ensalada Cesar;3;15000.000000;45000.000000;~2;Ajiaco Bogotano;3;28000.000000;84000.000000;

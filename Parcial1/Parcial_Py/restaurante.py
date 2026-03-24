@@ -1038,6 +1038,28 @@ def ped_crear():
         if not pr or not pr["activo"]: err("No disponible"); continue
         if pr["stock"]<=0: warn(f"Sin stock de {pr['nombre']}"); continue
         cant = pint(f"Cantidad (max {pr['stock']}): ",1, pr["stock"])
+
+        # Verificar stock de ingredientes antes de agregar
+        hay_stock_ing = True
+        for ip in pr["ingredientes"]:
+            ing = bid("ingredients", ip["ing_id"])
+            if not ing:
+                err(f"Ingrediente '{ip['nombre']}' no encontrado en inventario")
+                hay_stock_ing = False; break
+            necesario = ip["cantidad"] * cant
+            if ing["stock"] < necesario:
+                err(f"Stock insuficiente de '{ing['nombre']}': necesita {necesario} {ing['unidad']}, disponible {ing['stock']} {ing['unidad']}")
+                hay_stock_ing = False; break
+        if not hay_stock_ing: continue
+
+        # Descontar ingredientes del stock
+        for ip in pr["ingredientes"]:
+            ing = bid("ingredients", ip["ing_id"])
+            if ing:
+                usado = ip["cantidad"] * cant
+                ing["stock"] -= usado
+                ok(f"    -> {ing['nombre']}: -{usado} {ing['unidad']} (quedan {ing['stock']})")
+
         nota = input("Nota del item: ").strip()
         sub_t = cant*pr["precio_venta"]
         p["items"].append({"prod_id":pr["id"],"nombre":pr["nombre"],"cant":cant,
@@ -1119,7 +1141,15 @@ def menu_pedidos():
                     p["estado"] = "cancelado"
                     for it in p["items"]:
                         pr = bid("dishes", it["prod_id"])
-                        if pr: pr["stock"] += it["cant"]
+                        if pr:
+                            pr["stock"] += it["cant"]
+                            # Devolver ingredientes al stock
+                            for ip in pr["ingredientes"]:
+                                ing = bid("ingredients", ip["ing_id"])
+                                if ing:
+                                    devuelto = ip["cantidad"] * it["cant"]
+                                    ing["stock"] += devuelto
+                                    ok(f"    -> {ing['nombre']}: +{devuelto} {ing['unidad']} (quedan {ing['stock']})")
                     if p["mesa_id"]:
                         m = bid("tables", p["mesa_id"])
                         if m: m["estado"] = "disponible"

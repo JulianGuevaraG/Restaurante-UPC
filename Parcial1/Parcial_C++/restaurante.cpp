@@ -1450,6 +1450,36 @@ void ped_crear() {
         if (!d || !d->activo) { err("No disponible"); continue; }
         if (d->stock <= 0) { warn("Sin stock de " + d->nombre); continue; }
         int cant = pint("Cantidad (max " + to_string(d->stock) + "): ", 1, d->stock);
+
+        // Verificar stock de ingredientes antes de agregar
+        bool hay_stock_ing = true;
+        for (auto& ip : d->ingredientes) {
+            Ingrediente* ing = bid(ingredientes, ip.ing_id);
+            if (!ing) {
+                err("Ingrediente '" + ip.nombre + "' no encontrado en inventario");
+                hay_stock_ing = false; break;
+            }
+            double necesario = ip.cantidad * cant;
+            if (ing->stock < necesario) {
+                err("Stock insuficiente de '" + ing->nombre + "': necesita " +
+                    to_string(necesario) + " " + ing->unidad + ", disponible " +
+                    to_string(ing->stock) + " " + ing->unidad);
+                hay_stock_ing = false; break;
+            }
+        }
+        if (!hay_stock_ing) continue;
+
+        // Descontar ingredientes del stock
+        for (auto& ip : d->ingredientes) {
+            Ingrediente* ing = bid(ingredientes, ip.ing_id);
+            if (ing) {
+                double usado = ip.cantidad * cant;
+                ing->stock -= usado;
+                ok("    -> " + ing->nombre + ": -" + to_string(usado) + " " + ing->unidad +
+                   " (quedan " + to_string(ing->stock) + ")");
+            }
+        }
+
         string nota = readline("Nota del item: ");
         double sub_t = cant * d->precio_venta;
         p.items.push_back({d->id, cant, d->nombre, nota, d->precio_venta, sub_t});
@@ -1513,7 +1543,19 @@ void menu_pedidos() {
                         p->estado = "cancelado";
                         for (auto& it : p->items) {
                             Plato* pl = bid(platos, it.prod_id);
-                            if (pl) pl->stock += it.cant;
+                            if (pl) {
+                                pl->stock += it.cant;
+                                // Devolver ingredientes al stock
+                                for (auto& ip : pl->ingredientes) {
+                                    Ingrediente* ing = bid(ingredientes, ip.ing_id);
+                                    if (ing) {
+                                        double devuelto = ip.cantidad * it.cant;
+                                        ing->stock += devuelto;
+                                        ok("    -> " + ing->nombre + ": +" + to_string(devuelto) + " " + ing->unidad +
+                                           " (quedan " + to_string(ing->stock) + ")");
+                                    }
+                                }
+                            }
                         }
                         if (p->mesa_id>0) {
                             Mesa* m = bid(mesas, p->mesa_id);
