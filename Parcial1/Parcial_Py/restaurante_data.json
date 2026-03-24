@@ -1,0 +1,1452 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Guiso de Mondongo",
+      "descripcion": "Este guiso es el que da los poderes",
+      "categoria": "Plato Principal",
+      "precio": 20000.0,
+      "costo": 25000.0,
+      "stock": 0,
+      "stock_min": 55,
+      "unidad": "unidad",
+      "activo": true,
+      "creado": "2026-03-18"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "nombre": "PideloNuestro",
+      "contacto": "3100627250",
+      "telefono": "3199213336",
+      "email": "pidelonuestro@unicesar.edu.co",
+      "productos": "Carnes",
+      "activo": true,
+      "creado": "2026-03-18"
+    }
+  ],
+  "purchases": [
+    {
+      "id": 1,
+      "proveedor_id": 1,
+      "proveedor": "PideloNuestro",
+      "fecha": "2026-03-18",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 60000.0,
+          "sub": 180000.0
+        }
+      ],
+      "total": 180000.0,
+      "estado": "recibido",
+      "notas": "Queremos que sean mejores",
+      "fecha_recepcion": "2026-03-18"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "nombre": "}",
+      "telefono": "3104672430",
+      "email": "tegordizo@gmail.com",
+      "direccion": "Cerca de la plaza principal",
+      "visitas": 1,
+      "gastado": 40000.0,
+      "puntos": 40,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 2,
+      "nombre": "Camilo arzuaga Lognis",
+      "telefono": "3177899520",
+      "email": "fenizlooz@gmail.com",
+      "direccion": "aqui en el valle",
+      "visitas": 3,
+      "gastado": 380000.0,
+      "puntos": 380,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlito Dertix Garcia",
+      "telefono": "3104672431",
+      "email": "dertux@gmail.com",
+      "direccion": "trasversal cercano",
+      "visitas": 4,
+      "gastado": 160000.0,
+      "puntos": 160,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 4,
+      "nombre": "Carlos López",
+      "telefono": "3194718119",
+      "email": "carlos21@mail.com",
+      "direccion": "Calle 81 #25-79",
+      "visitas": 0,
+      "gastado": 0.0,
+      "puntos": 0,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 5,
+      "nombre": "María García",
+      "telefono": "3192962369",
+      "email": "maría3@mail.com",
+      "direccion": "Calle 97 #14-20",
+      "visitas": 2,
+      "gastado": 60000.0,
+      "puntos": 60,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 6,
+      "nombre": "Juan Pérez",
+      "telefono": "3159836335",
+      "email": "juan25@mail.com",
+      "direccion": "Calle 67 #14-8",
+      "visitas": 0,
+      "gastado": 0.0,
+      "puntos": 0,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 7,
+      "nombre": "Ana Martínez",
+      "telefono": "3172912370",
+      "email": "ana76@mail.com",
+      "direccion": "Calle 74 #45-83",
+      "visitas": 1,
+      "gastado": 20000.0,
+      "puntos": 20,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 8,
+      "nombre": "Pedro Rodríguez",
+      "telefono": "3155463811",
+      "email": "pedro25@mail.com",
+      "direccion": "Calle 82 #48-18",
+      "visitas": 3,
+      "gastado": 80000.0,
+      "puntos": 80,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 9,
+      "nombre": "Laura Sánchez",
+      "telefono": "3134342464",
+      "email": "laura33@mail.com",
+      "direccion": "Calle 33 #15-71",
+      "visitas": 1,
+      "gastado": 20000.0,
+      "puntos": 20,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 10,
+      "nombre": "Diego Ramírez",
+      "telefono": "3133384107",
+      "email": "diego72@mail.com",
+      "direccion": "Calle 82 #6-24",
+      "visitas": 4,
+      "gastado": 140000.0,
+      "puntos": 140,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 11,
+      "nombre": "Sofía Torres",
+      "telefono": "3186975004",
+      "email": "sofía1@mail.com",
+      "direccion": "Calle 5 #37-15",
+      "visitas": 1,
+      "gastado": 60000.0,
+      "puntos": 60,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 12,
+      "nombre": "Andrés Herrera",
+      "telefono": "3182345323",
+      "email": "andrés47@mail.com",
+      "direccion": "Calle 28 #14-80",
+      "visitas": 0,
+      "gastado": 0.0,
+      "puntos": 0,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 13,
+      "nombre": "Valentina Castro",
+      "telefono": "3172474356",
+      "email": "valentina20@mail.com",
+      "direccion": "Calle 62 #45-96",
+      "visitas": 1,
+      "gastado": 20000.0,
+      "puntos": 20,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 14,
+      "nombre": "Camilo Vargas",
+      "telefono": "3180456022",
+      "email": "camilo8@mail.com",
+      "direccion": "Calle 18 #37-19",
+      "visitas": 5,
+      "gastado": 220000.0,
+      "puntos": 220,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 15,
+      "nombre": "Isabella Moreno",
+      "telefono": "3148879147",
+      "email": "isabella97@mail.com",
+      "direccion": "Calle 39 #2-7",
+      "visitas": 0,
+      "gastado": 0.0,
+      "puntos": 0,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 16,
+      "nombre": "Sebastián Rojas",
+      "telefono": "3111926262",
+      "email": "sebastián99@mail.com",
+      "direccion": "Calle 10 #11-44",
+      "visitas": 0,
+      "gastado": 0.0,
+      "puntos": 0,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 17,
+      "nombre": "Daniela Mendoza",
+      "telefono": "3183782561",
+      "email": "daniela68@mail.com",
+      "direccion": "Calle 17 #8-19",
+      "visitas": 3,
+      "gastado": 120000.0,
+      "puntos": 120,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 18,
+      "nombre": "Felipe Restrepo",
+      "telefono": "3138747525",
+      "email": "felipe12@mail.com",
+      "direccion": "Calle 88 #29-16",
+      "visitas": 1,
+      "gastado": 60000.0,
+      "puntos": 60,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 19,
+      "nombre": "Natalia Cárdenas",
+      "telefono": "3159435772",
+      "email": "natalia80@mail.com",
+      "direccion": "Calle 52 #50-34",
+      "visitas": 2,
+      "gastado": 80000.0,
+      "puntos": 80,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 20,
+      "nombre": "Julián Ospina",
+      "telefono": "3183965325",
+      "email": "julián17@mail.com",
+      "direccion": "Calle 9 #31-43",
+      "visitas": 1,
+      "gastado": 40000.0,
+      "puntos": 40,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 21,
+      "nombre": "Paola Quintero",
+      "telefono": "3177165326",
+      "email": "paola29@mail.com",
+      "direccion": "Calle 66 #40-96",
+      "visitas": 4,
+      "gastado": 120000.0,
+      "puntos": 120,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 22,
+      "nombre": "Rodrigo Mendoza",
+      "telefono": "3144789840",
+      "email": "rodrigo3@mail.com",
+      "direccion": "Calle 80 #6-46",
+      "visitas": 1,
+      "gastado": 40000.0,
+      "puntos": 40,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    },
+    {
+      "id": 23,
+      "nombre": "Luisa Fernández",
+      "telefono": "3123732697",
+      "email": "luisa99@mail.com",
+      "direccion": "Calle 46 #28-52",
+      "visitas": 3,
+      "gastado": 100000.0,
+      "puntos": 100,
+      "nivel": "Bronce",
+      "activo": true,
+      "creado": "2026-03-18"
+    }
+  ],
+  "tables": [
+    {
+      "id": 2,
+      "numero": 1,
+      "capacidad": 4,
+      "ubicacion": "Salón",
+      "estado": "ocupada",
+      "activo": true
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "cliente_id": 1,
+      "cliente": "}",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "fecha": "2026-03-24",
+      "hora": "16:00",
+      "personas": 6,
+      "especiales": "9",
+      "estado": "en_mesa",
+      "creado": "2026-03-18 20:51"
+    },
+    {
+      "id": 2,
+      "cliente_id": 3,
+      "cliente": "Carlito Dertix Garcia",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "fecha": "2026-02-11",
+      "hora": "14:00",
+      "personas": 8,
+      "especiales": "Somos veganos",
+      "estado": "confirmada",
+      "creado": "2026-03-18 21:47"
+    }
+  ],
+  "orders": [
+    {
+      "id": 3,
+      "tipo": "local",
+      "fecha": "2026-03-18 21:41",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 14,
+          "pu": 20000.0,
+          "sub": 280000.0,
+          "nota": "Asi es"
+        }
+      ],
+      "total": 280000.0,
+      "estado": "entregado",
+      "cliente_id": 2,
+      "cliente": "Camilo arzuaga Lognis",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": "Quiero comer rapido"
+    },
+    {
+      "id": 4,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 21:47",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": "Aja lo mejor"
+        }
+      ],
+      "total": 40000.0,
+      "estado": "abierto",
+      "cliente_id": 3,
+      "cliente": "Carlito Dertix Garcia",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Transversal de perpi",
+      "notas": "Quiero que mi pedido sea el mejor"
+    },
+    {
+      "id": 6,
+      "tipo": "local",
+      "fecha": "2026-03-17 16:33",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 7,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 18:10",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 23,
+      "cliente": "Luisa Fernández",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 46 #28-52",
+      "notas": ""
+    },
+    {
+      "id": 8,
+      "tipo": "local",
+      "fecha": "2026-03-17 11:08",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 8,
+      "cliente": "Pedro Rodríguez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 9,
+      "tipo": "local",
+      "fecha": "2026-03-17 12:23",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 5,
+      "cliente": "María García",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 10,
+      "tipo": "local",
+      "fecha": "2026-03-17 18:49",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 3,
+      "cliente": "Carlito Dertix Garcia",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 11,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 14:25",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "cancelado",
+      "cliente_id": 17,
+      "cliente": "Daniela Mendoza",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 17 #8-19",
+      "notas": ""
+    },
+    {
+      "id": 12,
+      "tipo": "local",
+      "fecha": "2026-03-17 11:42",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 10,
+      "cliente": "Diego Ramírez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 13,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 10:33",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 21,
+      "cliente": "Paola Quintero",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 66 #40-96",
+      "notas": ""
+    },
+    {
+      "id": 14,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 14:57",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 17,
+      "cliente": "Daniela Mendoza",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 17 #8-19",
+      "notas": ""
+    },
+    {
+      "id": 15,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 13:47",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 23,
+      "cliente": "Luisa Fernández",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 46 #28-52",
+      "notas": ""
+    },
+    {
+      "id": 16,
+      "tipo": "local",
+      "fecha": "2026-03-17 14:02",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 21,
+      "cliente": "Paola Quintero",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 17,
+      "tipo": "local",
+      "fecha": "2026-03-17 13:46",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 3,
+      "cliente": "Carlito Dertix Garcia",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 18,
+      "tipo": "local",
+      "fecha": "2026-03-17 13:17",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 19,
+      "cliente": "Natalia Cárdenas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 19,
+      "tipo": "domicilio",
+      "fecha": "2026-03-17 11:04",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 2,
+      "cliente": "Camilo arzuaga Lognis",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "aqui en el valle",
+      "notas": ""
+    },
+    {
+      "id": 20,
+      "tipo": "local",
+      "fecha": "2026-03-17 11:43",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 7,
+      "cliente": "Ana Martínez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 21,
+      "tipo": "local",
+      "fecha": "2026-03-17 16:05",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 17,
+      "cliente": "Daniela Mendoza",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 22,
+      "tipo": "local",
+      "fecha": "2026-03-17 20:18",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "abierto",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 23,
+      "tipo": "local",
+      "fecha": "2026-03-17 22:56",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 24,
+      "tipo": "local",
+      "fecha": "2026-03-17 22:49",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 22,
+      "cliente": "Rodrigo Mendoza",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 25,
+      "tipo": "local",
+      "fecha": "2026-03-18 14:32",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 13,
+      "cliente": "Valentina Castro",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 26,
+      "tipo": "local",
+      "fecha": "2026-03-18 20:48",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 8,
+      "cliente": "Pedro Rodríguez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 27,
+      "tipo": "local",
+      "fecha": "2026-03-18 14:04",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "cancelado",
+      "cliente_id": 19,
+      "cliente": "Natalia Cárdenas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 28,
+      "tipo": "local",
+      "fecha": "2026-03-18 12:15",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 29,
+      "tipo": "local",
+      "fecha": "2026-03-18 13:19",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 9,
+      "cliente": "Laura Sánchez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 30,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 14:48",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 10,
+      "cliente": "Diego Ramírez",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 82 #6-24",
+      "notas": ""
+    },
+    {
+      "id": 31,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 12:13",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 11,
+      "cliente": "Sofía Torres",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 5 #37-15",
+      "notas": ""
+    },
+    {
+      "id": 32,
+      "tipo": "local",
+      "fecha": "2026-03-18 18:22",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 1,
+      "cliente": "}",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 33,
+      "tipo": "local",
+      "fecha": "2026-03-18 21:04",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 19,
+      "cliente": "Natalia Cárdenas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 34,
+      "tipo": "local",
+      "fecha": "2026-03-18 18:25",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 23,
+      "cliente": "Luisa Fernández",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 35,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 21:00",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 21,
+      "cliente": "Paola Quintero",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 66 #40-96",
+      "notas": ""
+    },
+    {
+      "id": 36,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 10:11",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 10,
+      "cliente": "Diego Ramírez",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 82 #6-24",
+      "notas": ""
+    },
+    {
+      "id": 37,
+      "tipo": "local",
+      "fecha": "2026-03-18 17:33",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 21,
+      "cliente": "Paola Quintero",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 38,
+      "tipo": "local",
+      "fecha": "2026-03-18 10:34",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 8,
+      "cliente": "Pedro Rodríguez",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 39,
+      "tipo": "local",
+      "fecha": "2026-03-18 12:42",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 1,
+          "pu": 20000.0,
+          "sub": 20000.0,
+          "nota": ""
+        }
+      ],
+      "total": 20000.0,
+      "estado": "entregado",
+      "cliente_id": 5,
+      "cliente": "María García",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 40,
+      "tipo": "local",
+      "fecha": "2026-03-18 14:04",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 17,
+      "cliente": "Daniela Mendoza",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 41,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 19:17",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 2,
+      "cliente": "Camilo arzuaga Lognis",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "aqui en el valle",
+      "notas": ""
+    },
+    {
+      "id": 42,
+      "tipo": "local",
+      "fecha": "2026-03-18 16:09",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 3,
+      "cliente": "Carlito Dertix Garcia",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 43,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 12:12",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 20,
+      "cliente": "Julián Ospina",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 9 #31-43",
+      "notas": ""
+    },
+    {
+      "id": 44,
+      "tipo": "local",
+      "fecha": "2026-03-18 15:32",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "cancelado",
+      "cliente_id": 4,
+      "cliente": "Carlos López",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 45,
+      "tipo": "local",
+      "fecha": "2026-03-18 20:46",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 18,
+      "cliente": "Felipe Restrepo",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 46,
+      "tipo": "local",
+      "fecha": "2026-03-18 18:23",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": 2,
+      "mesa_num": 1,
+      "direccion": "",
+      "notas": ""
+    },
+    {
+      "id": 47,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 20:20",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 3,
+          "pu": 20000.0,
+          "sub": 60000.0,
+          "nota": ""
+        }
+      ],
+      "total": 60000.0,
+      "estado": "entregado",
+      "cliente_id": 14,
+      "cliente": "Camilo Vargas",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 18 #37-19",
+      "notas": ""
+    },
+    {
+      "id": 48,
+      "tipo": "domicilio",
+      "fecha": "2026-03-18 13:46",
+      "items": [
+        {
+          "prod_id": 1,
+          "nombre": "Guiso de Mondongo",
+          "cant": 2,
+          "pu": 20000.0,
+          "sub": 40000.0,
+          "nota": ""
+        }
+      ],
+      "total": 40000.0,
+      "estado": "entregado",
+      "cliente_id": 10,
+      "cliente": "Diego Ramírez",
+      "mesa_id": null,
+      "mesa_num": null,
+      "direccion": "Calle 82 #6-24",
+      "notas": ""
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "nombre": "Degerdos Hernandez Lucanis",
+      "documento": "1064106847",
+      "telefono": "3177899520",
+      "email": "degerdos@gmail.com",
+      "rol": "Domiciliario",
+      "salario": 1750905.0,
+      "contrato": "Indefinido",
+      "ingreso": "2026-04-21",
+      "activo": true
+    }
+  ],
+  "payrolls": [],
+  "_ids": {
+    "products": 1,
+    "suppliers": 1,
+    "purchases": 1,
+    "customers": 23,
+    "tables": 2,
+    "reservations": 2,
+    "orders": 48,
+    "employees": 2,
+    "payrolls": 0
+  }
+}
