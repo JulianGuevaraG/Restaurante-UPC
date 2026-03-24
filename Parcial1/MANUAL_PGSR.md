@@ -18,8 +18,8 @@ El sistema existe en **dos versiones equivalentes**:
 
 | Versión | Archivo | Lenguaje | Compilador / Intérprete |
 |---|---|---|---|
-| Python | `Parcial_Py/restaurante.py` | Python 3.x | Python 3.14+ |
-| C++ | `Parcial_C++/restaurante.cpp` | C++17 | TDM-GCC 10.3.0 |
+| Python | `Parcial_Py/restaurante.py` | Python 3.x | Python 3.14.3 |
+| C++ | `Parcial_C++/restaurante.cpp` | C++17 | g++ (TDM64-1) 10.3.0 |
 
 Ambas versiones comparten la misma lógica de negocio, los mismos archivos `.dat` de persistencia y el mismo comportamiento de interfaz.
 
@@ -396,6 +396,18 @@ Registra y gestiona los pedidos realizados por los clientes.
 - Al entregar un pedido, el gasto y las visitas del cliente se actualizan automáticamente.
 - Los puntos de fidelización se acumulan: **1 punto por cada $1.000** gastados.
 
+### Stock dinámico de ingredientes
+
+Al agregar un plato a un pedido, el sistema **descuenta automáticamente** del stock de ingredientes la cantidad necesaria para preparar el plato:
+
+1. Se verifica que **cada ingrediente** del plato tenga stock suficiente para la cantidad pedida (`cantidad_por_porción × unidades_pedidas`).
+2. Si algún ingrediente no tiene stock suficiente, se muestra un error y **no se permite agregar** el plato al pedido.
+3. Si todos los ingredientes tienen stock disponible, se descuenta automáticamente y se muestra el detalle de consumo.
+
+**Ejemplo:** Si el plato *Bandeja Paisa* requiere `0.30 kg` de arroz y se piden 2 unidades, el sistema verifica que haya al menos `0.60 kg` de arroz en stock y los descuenta automáticamente.
+
+**Al cancelar un pedido**, además de devolver el stock de los platos, se **devuelven los ingredientes** al inventario.
+
 ---
 
 ## 12. Módulo 8 — Empleados
@@ -647,8 +659,9 @@ Guarda manualmente todos los datos en los archivos `.dat`. Los datos también se
 | 15 | Reservas generadas automáticamente en la simulación | Completo |
 | 16 | Dashboard con pedidos abiertos visibles | Completo |
 | 17 | Dashboard con nómina visible en todos los periodos | Completo |
+| 18 | Stock dinámico de ingredientes al crear/cancelar pedidos | Completo |
 
 ---
 
-*Documento generado el 22 de marzo de 2026*
+*Documento actualizado el 23 de marzo de 2026*
 *PGSR v1.0 — Restaurante «Donde Siempre»*
