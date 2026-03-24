@@ -1,8 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
-    "code-runner.executorMap": {
-        "python": "C:\\Python314\\python.exe -u"
-    },
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true
-}
