@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''restaurante.py'', doraise=True\\); print\\(''OK''\\)\")",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(mv \"/c/Users/ASUS/$f\" \"/c/Users/ASUS/Documents/UPC/4to Semestre/Estructura de Datos/Parcial1/Parcial_Py/$f\")",
+      "Bash(echo \"Movido: $f\")",
+      "Bash(done)",
+      "Bash(ls \"C:\\\\Users\\\\ASUS\\\\Documents\\\\UPC\\\\4to Semestre\\\\Estructura de Datos\\\\Parcial1\\\\Parcial_Py\"\"*.dat 2>/dev/null && python -m py_compile \"C:UsersASUSDocumentsUPC4to SemestreEstructura de DatosParcial1Parcial_Pyrestaurante.py\" && echo \"Compila OK \")",
+      "Bash(ls \"/c/Users/ASUS/Documents/UPC/4to Semestre/Estructura de Datos/Parcial1/Parcial_Py/\"*.dat)",
+      "Bash(python -m py_compile \"/c/Users/ASUS/Documents/UPC/4to Semestre/Estructura de Datos/Parcial1/Parcial_Py/restaurante.py\")",
+      "Bash(python restaurante.py)",
+      "Bash(printf \"s\\\\n\\\\n0\\\\n\")",
+      "Bash(printf \"n\\\\n\\\\n10\\\\n5\\\\n\\\\n0\\\\n\")",
+      "Bash(find \"c:/Users/ASUS/Documents/UPC/4to Semestre/Estructura de Datos/Parcial1\" -type d -name \"__pycache__\" -exec rm -rf {} +)",
+      "Bash(find \"c:/Users/ASUS/Documents/UPC/4to Semestre/Estructura de Datos/Parcial1\" -name \"*.pyc\" -delete)"
+    ]
+  }
+}
